@@ -1,0 +1,2419 @@
+{
+  "name": "matrix-__graduate-services__overview",
+  "route": "/graduate-services/overview",
+  "samples": [
+    {
+      "width": 1440,
+      "reference": {
+        "width": 1440,
+        "height": 2960,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "ResizeObserver loop completed with undelivered notifications.",
+          "resource error",
+          "resource error",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications."
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238551112-SLKOVH7LZIT4G6F4K3S6/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238587558-EC4BUZR1SRXUZBULH1KR/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238634605-6QL4KFXTWKAJ3OYTXF33/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238776030-3IJD35S6D781OQPMUZQT/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702240024655-J76WE4EPYAFR2C6O8QVH/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "53.1968% 20.0012%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239120680-1VEDYQZ25M3LPBSXKO47/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239177222-LWOKIVRW8587OJ25JM3W/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239256980-PR09FUJSHWCJZ81BPKBS/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65761e200f09ce3511ed12ab",
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 2630.6796875
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 2630.6796875,
+            "width": 1440,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 1440,
+        "height": 2960,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4a587e1a48.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-7f17c9c068.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-c052e12425.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-30d42a58a5.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-b974a0bf47.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "53.1968% 20.0012%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-95d5274184.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-84700bdfc9.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-847181fb4a.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65761e200f09ce3511ed12ab",
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 2630.6875
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 2630.6875,
+            "width": 1440,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 1280,
+      "reference": {
+        "width": 1280,
+        "height": 2989,
+        "header": 147.6796875,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "ResizeObserver loop completed with undelivered notifications.",
+          "resource error",
+          "resource error",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications."
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 38.3984375,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238551112-SLKOVH7LZIT4G6F4K3S6/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 204.09375,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238587558-EC4BUZR1SRXUZBULH1KR/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238634605-6QL4KFXTWKAJ3OYTXF33/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238776030-3IJD35S6D781OQPMUZQT/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 204.09375,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702240024655-J76WE4EPYAFR2C6O8QVH/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "53.1968% 20.0012%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239120680-1VEDYQZ25M3LPBSXKO47/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239177222-LWOKIVRW8587OJ25JM3W/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 204.09375,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239256980-PR09FUJSHWCJZ81BPKBS/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65761e200f09ce3511ed12ab",
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 2659.421875
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 2659.421875,
+            "width": 1280,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 1280,
+        "height": 2989,
+        "header": 147.6796875,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 38.3984375,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4a587e1a48.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 204.09375,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-7f17c9c068.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-c052e12425.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-30d42a58a5.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 204.09375,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-b974a0bf47.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "53.1968% 20.0012%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-95d5274184.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-84700bdfc9.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 204.09375,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-847181fb4a.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65761e200f09ce3511ed12ab",
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 2659.4296875
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 2659.4296875,
+            "width": 1280,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 1024,
+      "reference": {
+        "width": 1024,
+        "height": 3102,
+        "header": 137.4453125,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "ResizeObserver loop completed with undelivered notifications.",
+          "resource error",
+          "resource error",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications."
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 30.71875,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238551112-SLKOVH7LZIT4G6F4K3S6/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238587558-EC4BUZR1SRXUZBULH1KR/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238634605-6QL4KFXTWKAJ3OYTXF33/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238776030-3IJD35S6D781OQPMUZQT/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702240024655-J76WE4EPYAFR2C6O8QVH/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "53.1968% 20.0012%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239120680-1VEDYQZ25M3LPBSXKO47/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239177222-LWOKIVRW8587OJ25JM3W/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239256980-PR09FUJSHWCJZ81BPKBS/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65761e200f09ce3511ed12ab",
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 2772.6015625
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 2772.6015625,
+            "width": 1024,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 1024,
+        "height": 3193,
+        "header": 137.4453125,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 30.71875,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4a587e1a48.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-7f17c9c068.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-c052e12425.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-30d42a58a5.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-b974a0bf47.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "53.1968% 20.0012%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-95d5274184.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-84700bdfc9.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-847181fb4a.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65761e200f09ce3511ed12ab",
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 2862.8203125
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 2862.8203125,
+            "width": 1024,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 768,
+      "reference": {
+        "width": 768,
+        "height": 3732,
+        "header": 185.65625,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "ResizeObserver loop completed with undelivered notifications.",
+          "resource error",
+          "resource error",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications."
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75.00000762939453,
+            "x": 571.1171875,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238551112-SLKOVH7LZIT4G6F4K3S6/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238587558-EC4BUZR1SRXUZBULH1KR/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238634605-6QL4KFXTWKAJ3OYTXF33/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238776030-3IJD35S6D781OQPMUZQT/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702240024655-J76WE4EPYAFR2C6O8QVH/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "53.1968% 20.0012%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239120680-1VEDYQZ25M3LPBSXKO47/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239177222-LWOKIVRW8587OJ25JM3W/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239256980-PR09FUJSHWCJZ81BPKBS/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65761e200f09ce3511ed12ab",
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 3402.703125
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 3402.703125,
+            "width": 768,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 768,
+        "height": 3870,
+        "header": 185.65625,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 571.1171875,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4a587e1a48.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-7f17c9c068.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-c052e12425.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-30d42a58a5.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-b974a0bf47.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "53.1968% 20.0012%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-95d5274184.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-84700bdfc9.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-847181fb4a.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65761e200f09ce3511ed12ab",
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 3540.671875
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 3540.671875,
+            "width": 768,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 390,
+      "reference": {
+        "width": 390,
+        "height": 6203,
+        "header": 140.796875,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "ResizeObserver loop completed with undelivered notifications.",
+          "resource error",
+          "resource error",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications."
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 215.796875,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238551112-SLKOVH7LZIT4G6F4K3S6/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238587558-EC4BUZR1SRXUZBULH1KR/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238634605-6QL4KFXTWKAJ3OYTXF33/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238776030-3IJD35S6D781OQPMUZQT/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702240024655-J76WE4EPYAFR2C6O8QVH/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "53.1968% 20.0012%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239120680-1VEDYQZ25M3LPBSXKO47/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239177222-LWOKIVRW8587OJ25JM3W/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239256980-PR09FUJSHWCJZ81BPKBS/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65761e200f09ce3511ed12ab",
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 5873.4375
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5873.4375,
+            "width": 390,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 390,
+        "height": 6273,
+        "header": 140.796875,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 215.796875,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4a587e1a48.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-7f17c9c068.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-c052e12425.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-30d42a58a5.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-b974a0bf47.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "53.1968% 20.0012%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-95d5274184.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-84700bdfc9.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-847181fb4a.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65761e200f09ce3511ed12ab",
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 5943.5859375
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5943.5859375,
+            "width": 390,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 375,
+      "reference": {
+        "width": 375,
+        "height": 6320,
+        "header": 139,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "ResizeObserver loop completed with undelivered notifications.",
+          "resource error",
+          "resource error",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications.",
+          "ResizeObserver loop completed with undelivered notifications."
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 201.6953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238551112-SLKOVH7LZIT4G6F4K3S6/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238587558-EC4BUZR1SRXUZBULH1KR/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238634605-6QL4KFXTWKAJ3OYTXF33/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238776030-3IJD35S6D781OQPMUZQT/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702240024655-J76WE4EPYAFR2C6O8QVH/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "53.1968% 20.0012%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239120680-1VEDYQZ25M3LPBSXKO47/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239177222-LWOKIVRW8587OJ25JM3W/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239256980-PR09FUJSHWCJZ81BPKBS/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65761e200f09ce3511ed12ab",
+            "x": 0,
+            "y": 0,
+            "width": 375,
+            "height": 5990.3828125
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5990.3828125,
+            "width": 375,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 375,
+        "height": 6361,
+        "header": 139,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 201.6953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4a587e1a48.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-7f17c9c068.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-c052e12425.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-30d42a58a5.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-b974a0bf47.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "53.1968% 20.0012%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-95d5274184.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-84700bdfc9.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-847181fb4a.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65761e200f09ce3511ed12ab",
+            "x": 0,
+            "y": 0,
+            "width": 375,
+            "height": 6031.6640625
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 6031.6640625,
+            "width": 375,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    }
+  ],
+  "note": "Rendered DOM geometry from a locally served reference HTML snapshot with original remote scripts/assets; Adobe fonts may be unavailable on the comparison origin. This is not a live-origin screenshot comparison."
+}

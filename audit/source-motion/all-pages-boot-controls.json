@@ -1,0 +1,117 @@
+[
+  {
+    "page": "index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "student_testimonials/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "home/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "contact/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "about-us/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "graduate-1/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "about/our-journey/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "about/founders-letter/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "admissions-result/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "admissions-result/graduate/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "admissions-result/undergraduate/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "our-team/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "our-team/us-consultants/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "our-team/management-team/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "our-team/chinese-consultants/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "undergraduate-services/faqs/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "undergraduate-services/overview/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "student-testimonials/graduate/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "student-testimonials/undergraduate/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "why-choose-us/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "services/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "graduate-services/faqs/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  },
+  {
+    "page": "graduate-services/overview/index.html",
+    "booted": true,
+    "pauseButtons": 0
+  }
+]

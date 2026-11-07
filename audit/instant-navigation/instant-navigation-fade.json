@@ -1,0 +1,239 @@
+{
+  "name": "instant-navigation-fade",
+  "results": [
+    {
+      "route": "/",
+      "ms": 61,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 68,
+      "title": "AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/about-us",
+      "ms": 61,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.358797",
+      "animations": 8,
+      "title": "About 1 \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/about/founders-letter",
+      "ms": 61,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.358798",
+      "animations": 8,
+      "title": "About 1 \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/about/our-journey",
+      "ms": 61,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.364886",
+      "animations": 7,
+      "title": "Our Journey \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/admissions-result",
+      "ms": 61,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.353851",
+      "animations": 9,
+      "title": "Undergraduate \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/admissions-result/graduate",
+      "ms": 61,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 9,
+      "title": "Graduate \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/admissions-result/undergraduate",
+      "ms": 61,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.353836",
+      "animations": 9,
+      "title": "Undergraduate \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/contact",
+      "ms": 1112,
+      "retainedBeforeCommit": true,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 5,
+      "title": "Contact 1 \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/graduate-1",
+      "ms": 61,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 5,
+      "title": "General 4 \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/graduate-services/faqs",
+      "ms": 61,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 8,
+      "title": "FAQs \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/graduate-services/overview",
+      "ms": 61,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.353874",
+      "animations": 5,
+      "title": "General 4 \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/our-team",
+      "ms": 61,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 9,
+      "title": "Team 1 \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/our-team/chinese-consultants",
+      "ms": 61,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.354422",
+      "animations": 7,
+      "title": "Chinese Consultants \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/our-team/management-team",
+      "ms": 61,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 9,
+      "title": "Team 1 \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/our-team/us-consultants",
+      "ms": 69,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 7,
+      "title": "US Consultants \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/services",
+      "ms": 61,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 5,
+      "title": "General 4 \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/student-testimonials/graduate",
+      "ms": 118,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 31,
+      "title": "Reviews 1 \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/student-testimonials/undergraduate",
+      "ms": 150,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 29,
+      "title": "Reviews 1 \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/student_testimonials",
+      "ms": 148,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 29,
+      "title": "Reviews 1 \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/undergraduate-services/faqs",
+      "ms": 100,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 6,
+      "title": "FAQs \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/undergraduate-services/overview",
+      "ms": 65,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 5,
+      "title": "General 4 \u2014 AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/home",
+      "ms": 102,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 65,
+      "title": "AUCTA Education",
+      "scopeDisposed": false
+    },
+    {
+      "route": "/why-choose-us",
+      "ms": 75,
+      "retainedBeforeCommit": false,
+      "mainVisible": "visible",
+      "opacity": "0.35",
+      "animations": 4,
+      "title": "Why Choose Us \u2014 AUCTA Education",
+      "scopeDisposed": false
+    }
+  ],
+  "documentLoads": 0,
+  "delayedContactRetained": true,
+  "menuOpened": true,
+  "errors": []
+}

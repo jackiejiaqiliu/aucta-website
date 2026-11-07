@@ -1,0 +1,2107 @@
+{
+  "name": "matrix-__undergraduate-services__overview",
+  "route": "/undergraduate-services/overview",
+  "samples": [
+    {
+      "width": 1440,
+      "reference": {
+        "width": 1440,
+        "height": 2840,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 160.84375,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238551112-SLKOVH7LZIT4G6F4K3S6/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238587558-EC4BUZR1SRXUZBULH1KR/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238634605-6QL4KFXTWKAJ3OYTXF33/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238776030-3IJD35S6D781OQPMUZQT/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239010836-CLSYW5WLMPXY7X0SH1W9/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239120680-1VEDYQZ25M3LPBSXKO47/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239177222-LWOKIVRW8587OJ25JM3W/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239256980-PR09FUJSHWCJZ81BPKBS/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239308032-0X5NFB71YSSE2VEY15NE/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "6576160be09de61b4d71e6b8",
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 2510.6875
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 2510.6875,
+            "width": 1440,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 1440,
+        "height": 2875,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 160.84375,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4a587e1a48.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-7f17c9c068.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-c052e12425.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-30d42a58a5.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-f46e4fd16c.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-95d5274184.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-84700bdfc9.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-847181fb4a.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-52e1379f83.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 232.296875,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "6576160be09de61b4d71e6b8",
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 2544.78125
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 2544.78125,
+            "width": 1440,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 1280,
+      "reference": {
+        "width": 1280,
+        "height": 2828,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 160.84375,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238551112-SLKOVH7LZIT4G6F4K3S6/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 204.09375,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238587558-EC4BUZR1SRXUZBULH1KR/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238634605-6QL4KFXTWKAJ3OYTXF33/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238776030-3IJD35S6D781OQPMUZQT/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 204.09375,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239010836-CLSYW5WLMPXY7X0SH1W9/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239120680-1VEDYQZ25M3LPBSXKO47/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239177222-LWOKIVRW8587OJ25JM3W/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 204.09375,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239256980-PR09FUJSHWCJZ81BPKBS/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239308032-0X5NFB71YSSE2VEY15NE/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "6576160be09de61b4d71e6b8",
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 2497.8359375
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 2497.8359375,
+            "width": 1280,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 1280,
+        "height": 2869,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 160.84375,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4a587e1a48.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 204.09375,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-7f17c9c068.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-c052e12425.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-30d42a58a5.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 204.09375,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-f46e4fd16c.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-95d5274184.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-84700bdfc9.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 204.09375,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-847181fb4a.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-52e1379f83.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 204.1015625,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "6576160be09de61b4d71e6b8",
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 2538.9375
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 2538.9375,
+            "width": 1280,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 1024,
+      "reference": {
+        "width": 1024,
+        "height": 2933,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 160.84375,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238551112-SLKOVH7LZIT4G6F4K3S6/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238587558-EC4BUZR1SRXUZBULH1KR/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238634605-6QL4KFXTWKAJ3OYTXF33/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238776030-3IJD35S6D781OQPMUZQT/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239010836-CLSYW5WLMPXY7X0SH1W9/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239120680-1VEDYQZ25M3LPBSXKO47/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239177222-LWOKIVRW8587OJ25JM3W/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239256980-PR09FUJSHWCJZ81BPKBS/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239308032-0X5NFB71YSSE2VEY15NE/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "6576160be09de61b4d71e6b8",
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 2603.3203125
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 2603.3203125,
+            "width": 1024,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 1024,
+        "height": 3023,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 160.84375,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4a587e1a48.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-7f17c9c068.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-c052e12425.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-30d42a58a5.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-f46e4fd16c.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-95d5274184.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-84700bdfc9.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-847181fb4a.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-52e1379f83.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 158.9765625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "6576160be09de61b4d71e6b8",
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 2693.53125
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 2693.53125,
+            "width": 1024,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 768,
+      "reference": {
+        "width": 768,
+        "height": 3413,
+        "header": 151.09375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 574,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238551112-SLKOVH7LZIT4G6F4K3S6/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238587558-EC4BUZR1SRXUZBULH1KR/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238634605-6QL4KFXTWKAJ3OYTXF33/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238776030-3IJD35S6D781OQPMUZQT/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239010836-CLSYW5WLMPXY7X0SH1W9/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239120680-1VEDYQZ25M3LPBSXKO47/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239177222-LWOKIVRW8587OJ25JM3W/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239256980-PR09FUJSHWCJZ81BPKBS/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239308032-0X5NFB71YSSE2VEY15NE/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "6576160be09de61b4d71e6b8",
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 3083.1328125
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 3083.1328125,
+            "width": 768,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 768,
+        "height": 3575,
+        "header": 151.09375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 574,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4a587e1a48.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-7f17c9c068.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-c052e12425.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-30d42a58a5.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-f46e4fd16c.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-95d5274184.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-84700bdfc9.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-847181fb4a.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-52e1379f83.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 113.859375,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "6576160be09de61b4d71e6b8",
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 3245.1015625
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 3245.1015625,
+            "width": 768,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 390,
+      "reference": {
+        "width": 390,
+        "height": 6769,
+        "header": 151.59375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 196,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238551112-SLKOVH7LZIT4G6F4K3S6/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238587558-EC4BUZR1SRXUZBULH1KR/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238634605-6QL4KFXTWKAJ3OYTXF33/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238776030-3IJD35S6D781OQPMUZQT/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239010836-CLSYW5WLMPXY7X0SH1W9/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239120680-1VEDYQZ25M3LPBSXKO47/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239177222-LWOKIVRW8587OJ25JM3W/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239256980-PR09FUJSHWCJZ81BPKBS/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239308032-0X5NFB71YSSE2VEY15NE/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "6576160be09de61b4d71e6b8",
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 6439.7421875
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 6439.7421875,
+            "width": 390,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 390,
+        "height": 6856,
+        "header": 151.59375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 196,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4a587e1a48.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-7f17c9c068.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-c052e12425.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-30d42a58a5.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-f46e4fd16c.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-95d5274184.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-84700bdfc9.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-847181fb4a.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-52e1379f83.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 207.2109375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "6576160be09de61b4d71e6b8",
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 6526.34375
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 6526.34375,
+            "width": 390,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 375,
+      "reference": {
+        "width": 375,
+        "height": 6907,
+        "header": 151.59375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 181,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238551112-SLKOVH7LZIT4G6F4K3S6/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238587558-EC4BUZR1SRXUZBULH1KR/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238634605-6QL4KFXTWKAJ3OYTXF33/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702238776030-3IJD35S6D781OQPMUZQT/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239010836-CLSYW5WLMPXY7X0SH1W9/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239120680-1VEDYQZ25M3LPBSXKO47/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239177222-LWOKIVRW8587OJ25JM3W/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239256980-PR09FUJSHWCJZ81BPKBS/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702239308032-0X5NFB71YSSE2VEY15NE/image-asset.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "6576160be09de61b4d71e6b8",
+            "x": 0,
+            "y": 0,
+            "width": 375,
+            "height": 6577.5859375
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 6577.5859375,
+            "width": 375,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 375,
+        "height": 6936,
+        "header": 151.59375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 181,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4a587e1a48.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 12.8008%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-7f17c9c068.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-c052e12425.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-30d42a58a5.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-f46e4fd16c.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-95d5274184.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-84700bdfc9.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "94.2224% 69.6043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-847181fb4a.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-52e1379f83.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 199.28125,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "6576160be09de61b4d71e6b8",
+            "x": 0,
+            "y": 0,
+            "width": 375,
+            "height": 6606.453125
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 6606.453125,
+            "width": 375,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    }
+  ],
+  "note": "Rendered DOM geometry from a locally served reference HTML snapshot with original remote scripts/assets; Adobe fonts may be unavailable on the comparison origin. This is not a live-origin screenshot comparison."
+}

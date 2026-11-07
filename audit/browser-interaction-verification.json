@@ -1,0 +1,235 @@
+{
+  "name": "interaction-complete",
+  "results": [
+    {
+      "route": "/",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 1,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/about-us",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/about/founders-letter",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/about/our-journey",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/admissions-result",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 5,
+      "lightboxes": 1,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/admissions-result/graduate",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 4,
+      "lightboxes": 1,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/admissions-result/undergraduate",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 5,
+      "lightboxes": 1,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/contact",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/graduate-1",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/graduate-services/faqs",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 8,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/graduate-services/overview",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/our-team",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/our-team/chinese-consultants",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/our-team/management-team",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/our-team/us-consultants",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/services",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/student-testimonials/graduate",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/student-testimonials/undergraduate",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/student_testimonials",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/undergraduate-services/faqs",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 7,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/undergraduate-services/overview",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/home",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 1,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    },
+    {
+      "route": "/why-choose-us",
+      "errors": [],
+      "desktopMenus": 6,
+      "mobileFolders": 6,
+      "accordions": 0,
+      "lightboxes": 0,
+      "remoteRuntimeRequests": [],
+      "browserErrors": []
+    }
+  ]
+}

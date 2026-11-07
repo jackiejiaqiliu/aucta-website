@@ -1,0 +1,2995 @@
+{
+  "name": "matrix-__our-team__us-consultants",
+  "route": "/our-team/us-consultants",
+  "samples": [
+    {
+      "width": 1440,
+      "reference": {
+        "width": 1440,
+        "height": 5930,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438508-B9L3SBCY6PPI8WPD5C1L/WechatIMG10.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "45.9199% 68.8043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438516-7C4UETS2GG40XQL18P39/WechatIMG14.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1e5100d6-a7e1-449c-bdcb-76f7e39e6c2f/WechatIMG132.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438532-6PCF8LWEGS2IZCL2N5N9/WechatIMG17.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438541-S09RU0F8XH3TCQNTZ7YG/Screen+Shot+2020-10-20+at+1.15.55+AM.png?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438552-K2L0YQK9W9CQGK49VNSG/WechatIMG13.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625736237261-9BH21PJGRTBUVC1FBUV9/eric.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438560-9X9DYBA2HSKAMDWJUJNS/WechatIMG12.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438568-8CIIMAPY9UALKZZJHJ93/WechatIMG15.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625824965752-K9LKWOBXKX3HFFZQHSC2/Lilian.png?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/ae764e5e-62c8-4458-b403-0ed1db5a9c09/WechatIMG231.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b12c0020-a982-463d-814e-6d75a2b28b24/WechatIMG211.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/57b6cf83-0547-4f8e-81b3-89191bb18a1b/WechatIMG194.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/be43be9d-fe0e-4302-ad47-4bd798ae9f17/WechatIMG235.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0567b220-07de-45fa-a319-f5b22024aee5/WechatIMG252.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65754cac9e02b2398bc5bcbf",
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 332.59375
+          },
+          {
+            "id": "65754cac9e02b2398bc5bcc0",
+            "x": 0,
+            "y": 332.59375,
+            "width": 1440,
+            "height": 4436.1953125
+          },
+          {
+            "id": "65850f61000e266ad0a6d128",
+            "x": 0,
+            "y": 4768.7890625,
+            "width": 1440,
+            "height": 831.1328125
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5599.921875,
+            "width": 1440,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 1440,
+        "height": 5930,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG10-cdf6543b51.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "45.9199% 68.8043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG14-96d1eb583e.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG132-3ffb121c1b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG17-3140248f27.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Screen-Shot-2020-10-20-at-1.15.55-AM-daa2b57afb.png",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG13-24f3680fbc.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/eric-1eb78c758b.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG12-b620f2813b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG15-96ddd8047b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Lilian-eb52d184a8.png",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG231-10985714f3.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG211-48a6106ab0.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG194-736bb019b6.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG235-a2565dc28e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 514.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG252-4c56428229.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 411.203125,
+            "height": 412.203125,
+            "x": 985.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65754cac9e02b2398bc5bcbf",
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 332.6015625
+          },
+          {
+            "id": "65754cac9e02b2398bc5bcc0",
+            "x": 0,
+            "y": 332.6015625,
+            "width": 1440,
+            "height": 4436.1953125
+          },
+          {
+            "id": "65850f61000e266ad0a6d128",
+            "x": 0,
+            "y": 4768.796875,
+            "width": 1440,
+            "height": 831.1328125
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5599.9296875,
+            "width": 1440,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 1280,
+      "reference": {
+        "width": 1280,
+        "height": 5752,
+        "header": 147.6796875,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 38.3984375,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438508-B9L3SBCY6PPI8WPD5C1L/WechatIMG10.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 362.0625,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "45.9199% 68.8043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438516-7C4UETS2GG40XQL18P39/WechatIMG14.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1e5100d6-a7e1-449c-bdcb-76f7e39e6c2f/WechatIMG132.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438532-6PCF8LWEGS2IZCL2N5N9/WechatIMG17.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 362.0625,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438541-S09RU0F8XH3TCQNTZ7YG/Screen+Shot+2020-10-20+at+1.15.55+AM.png?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438552-K2L0YQK9W9CQGK49VNSG/WechatIMG13.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625736237261-9BH21PJGRTBUVC1FBUV9/eric.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 362.0625,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438560-9X9DYBA2HSKAMDWJUJNS/WechatIMG12.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438568-8CIIMAPY9UALKZZJHJ93/WechatIMG15.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625824965752-K9LKWOBXKX3HFFZQHSC2/Lilian.png?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 362.0625,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/ae764e5e-62c8-4458-b403-0ed1db5a9c09/WechatIMG231.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b12c0020-a982-463d-814e-6d75a2b28b24/WechatIMG211.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/57b6cf83-0547-4f8e-81b3-89191bb18a1b/WechatIMG194.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 362.0625,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/be43be9d-fe0e-4302-ad47-4bd798ae9f17/WechatIMG235.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0567b220-07de-45fa-a319-f5b22024aee5/WechatIMG252.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65754cac9e02b2398bc5bcbf",
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 330
+          },
+          {
+            "id": "65754cac9e02b2398bc5bcc0",
+            "x": 0,
+            "y": 330,
+            "width": 1280,
+            "height": 4329.140625
+          },
+          {
+            "id": "65850f61000e266ad0a6d128",
+            "x": 0,
+            "y": 4659.140625,
+            "width": 1280,
+            "height": 763.2109375
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5422.3515625,
+            "width": 1280,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 1280,
+        "height": 5752,
+        "header": 147.6796875,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 38.3984375,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG10-cdf6543b51.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 362.0625,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "45.9199% 68.8043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG14-96d1eb583e.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG132-3ffb121c1b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG17-3140248f27.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 362.0625,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Screen-Shot-2020-10-20-at-1.15.55-AM-daa2b57afb.png",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG13-24f3680fbc.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/eric-1eb78c758b.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 362.0625,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG12-b620f2813b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG15-96ddd8047b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Lilian-eb52d184a8.png",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 362.0625,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG231-10985714f3.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG211-48a6106ab0.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG194-736bb019b6.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0625,
+            "height": 362.0625,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG235-a2565dc28e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 459.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG252-4c56428229.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 361.0703125,
+            "height": 362.0703125,
+            "x": 880.53125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65754cac9e02b2398bc5bcbf",
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 330
+          },
+          {
+            "id": "65754cac9e02b2398bc5bcc0",
+            "x": 0,
+            "y": 330,
+            "width": 1280,
+            "height": 4329.140625
+          },
+          {
+            "id": "65850f61000e266ad0a6d128",
+            "x": 0,
+            "y": 4659.140625,
+            "width": 1280,
+            "height": 763.2109375
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5422.3515625,
+            "width": 1280,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 1024,
+      "reference": {
+        "width": 1024,
+        "height": 5669,
+        "header": 137.4453125,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 30.71875,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625738778693-LNIAOAAPLR0KOZSSB9DT/letterhead+mod.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438508-B9L3SBCY6PPI8WPD5C1L/WechatIMG10.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "45.9199% 68.8043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438516-7C4UETS2GG40XQL18P39/WechatIMG14.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1e5100d6-a7e1-449c-bdcb-76f7e39e6c2f/WechatIMG132.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438532-6PCF8LWEGS2IZCL2N5N9/WechatIMG17.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438541-S09RU0F8XH3TCQNTZ7YG/Screen+Shot+2020-10-20+at+1.15.55+AM.png?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438552-K2L0YQK9W9CQGK49VNSG/WechatIMG13.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625736237261-9BH21PJGRTBUVC1FBUV9/eric.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438560-9X9DYBA2HSKAMDWJUJNS/WechatIMG12.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438568-8CIIMAPY9UALKZZJHJ93/WechatIMG15.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625824965752-K9LKWOBXKX3HFFZQHSC2/Lilian.png?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/ae764e5e-62c8-4458-b403-0ed1db5a9c09/WechatIMG231.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b12c0020-a982-463d-814e-6d75a2b28b24/WechatIMG211.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/57b6cf83-0547-4f8e-81b3-89191bb18a1b/WechatIMG194.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/be43be9d-fe0e-4302-ad47-4bd798ae9f17/WechatIMG235.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0567b220-07de-45fa-a319-f5b22024aee5/WechatIMG252.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65754cac9e02b2398bc5bcbf",
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 330
+          },
+          {
+            "id": "65754cac9e02b2398bc5bcc0",
+            "x": 0,
+            "y": 330,
+            "width": 1024,
+            "height": 4354.625
+          },
+          {
+            "id": "65850f61000e266ad0a6d128",
+            "x": 0,
+            "y": 4684.625,
+            "width": 1024,
+            "height": 654.4375
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5339.0625,
+            "width": 1024,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 1024,
+        "height": 5669,
+        "header": 137.4453125,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 30.71875,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG10-cdf6543b51.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "45.9199% 68.8043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG14-96d1eb583e.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG132-3ffb121c1b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG17-3140248f27.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Screen-Shot-2020-10-20-at-1.15.55-AM-daa2b57afb.png",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG13-24f3680fbc.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/eric-1eb78c758b.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG12-b620f2813b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG15-96ddd8047b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Lilian-eb52d184a8.png",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG231-10985714f3.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG211-48a6106ab0.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG194-736bb019b6.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG235-a2565dc28e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 371.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG252-4c56428229.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 280.8515625,
+            "height": 281.8515625,
+            "x": 712.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65754cac9e02b2398bc5bcbf",
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 330
+          },
+          {
+            "id": "65754cac9e02b2398bc5bcc0",
+            "x": 0,
+            "y": 330,
+            "width": 1024,
+            "height": 4354.625
+          },
+          {
+            "id": "65850f61000e266ad0a6d128",
+            "x": 0,
+            "y": 4684.625,
+            "width": 1024,
+            "height": 654.4375
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5339.0625,
+            "width": 1024,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 768,
+      "reference": {
+        "width": 768,
+        "height": 5889,
+        "header": 185.65625,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75.00001525878906,
+            "x": 571.1171875,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438508-B9L3SBCY6PPI8WPD5C1L/WechatIMG10.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "45.9199% 68.8043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438516-7C4UETS2GG40XQL18P39/WechatIMG14.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1e5100d6-a7e1-449c-bdcb-76f7e39e6c2f/WechatIMG132.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438532-6PCF8LWEGS2IZCL2N5N9/WechatIMG17.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438541-S09RU0F8XH3TCQNTZ7YG/Screen+Shot+2020-10-20+at+1.15.55+AM.png?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438552-K2L0YQK9W9CQGK49VNSG/WechatIMG13.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625736237261-9BH21PJGRTBUVC1FBUV9/eric.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438560-9X9DYBA2HSKAMDWJUJNS/WechatIMG12.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438568-8CIIMAPY9UALKZZJHJ93/WechatIMG15.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625824965752-K9LKWOBXKX3HFFZQHSC2/Lilian.png?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/ae764e5e-62c8-4458-b403-0ed1db5a9c09/WechatIMG231.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b12c0020-a982-463d-814e-6d75a2b28b24/WechatIMG211.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/57b6cf83-0547-4f8e-81b3-89191bb18a1b/WechatIMG194.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/be43be9d-fe0e-4302-ad47-4bd798ae9f17/WechatIMG235.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0567b220-07de-45fa-a319-f5b22024aee5/WechatIMG252.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65754cac9e02b2398bc5bcbf",
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 330
+          },
+          {
+            "id": "65754cac9e02b2398bc5bcc0",
+            "x": 0,
+            "y": 330,
+            "width": 768,
+            "height": 4683.5234375
+          },
+          {
+            "id": "65850f61000e266ad0a6d128",
+            "x": 0,
+            "y": 5013.5234375,
+            "width": 768,
+            "height": 545.828125
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5559.3515625,
+            "width": 768,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 768,
+        "height": 5889,
+        "header": 185.65625,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 571.1171875,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG10-cdf6543b51.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "45.9199% 68.8043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG14-96d1eb583e.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG132-3ffb121c1b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG17-3140248f27.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Screen-Shot-2020-10-20-at-1.15.55-AM-daa2b57afb.png",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG13-24f3680fbc.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/eric-1eb78c758b.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG12-b620f2813b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG15-96ddd8047b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Lilian-eb52d184a8.png",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG231-10985714f3.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG211-48a6106ab0.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG194-736bb019b6.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG235-a2565dc28e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 283.6796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG252-4c56428229.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 200.640625,
+            "height": 201.640625,
+            "x": 544.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65754cac9e02b2398bc5bcbf",
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 330
+          },
+          {
+            "id": "65754cac9e02b2398bc5bcc0",
+            "x": 0,
+            "y": 330,
+            "width": 768,
+            "height": 4683.5234375
+          },
+          {
+            "id": "65850f61000e266ad0a6d128",
+            "x": 0,
+            "y": 5013.5234375,
+            "width": 768,
+            "height": 545.828125
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5559.3515625,
+            "width": 768,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 390,
+      "reference": {
+        "width": 390,
+        "height": 12892,
+        "header": 140.796875,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 215.796875,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438508-B9L3SBCY6PPI8WPD5C1L/WechatIMG10.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "45.9199% 68.8043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438516-7C4UETS2GG40XQL18P39/WechatIMG14.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1e5100d6-a7e1-449c-bdcb-76f7e39e6c2f/WechatIMG132.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438532-6PCF8LWEGS2IZCL2N5N9/WechatIMG17.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438541-S09RU0F8XH3TCQNTZ7YG/Screen+Shot+2020-10-20+at+1.15.55+AM.png?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438552-K2L0YQK9W9CQGK49VNSG/WechatIMG13.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625736237261-9BH21PJGRTBUVC1FBUV9/eric.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438560-9X9DYBA2HSKAMDWJUJNS/WechatIMG12.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438568-8CIIMAPY9UALKZZJHJ93/WechatIMG15.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625824965752-K9LKWOBXKX3HFFZQHSC2/Lilian.png?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/ae764e5e-62c8-4458-b403-0ed1db5a9c09/WechatIMG231.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b12c0020-a982-463d-814e-6d75a2b28b24/WechatIMG211.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/57b6cf83-0547-4f8e-81b3-89191bb18a1b/WechatIMG194.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/be43be9d-fe0e-4302-ad47-4bd798ae9f17/WechatIMG235.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0567b220-07de-45fa-a319-f5b22024aee5/WechatIMG252.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65754cac9e02b2398bc5bcbf",
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 330
+          },
+          {
+            "id": "65754cac9e02b2398bc5bcc0",
+            "x": 0,
+            "y": 330,
+            "width": 390,
+            "height": 11893.03125
+          },
+          {
+            "id": "65850f61000e266ad0a6d128",
+            "x": 0,
+            "y": 12223.03125,
+            "width": 390,
+            "height": 339
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 12562.03125,
+            "width": 390,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 390,
+        "height": 12892,
+        "header": 140.796875,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 215.796875,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG10-cdf6543b51.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "45.9199% 68.8043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG14-96d1eb583e.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG132-3ffb121c1b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG17-3140248f27.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Screen-Shot-2020-10-20-at-1.15.55-AM-daa2b57afb.png",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG13-24f3680fbc.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/eric-1eb78c758b.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG12-b620f2813b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG15-96ddd8047b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Lilian-eb52d184a8.png",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG231-10985714f3.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG211-48a6106ab0.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG194-736bb019b6.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG235-a2565dc28e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG252-4c56428229.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 366.609375,
+            "height": 367.609375,
+            "x": 11.6953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65754cac9e02b2398bc5bcbf",
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 330
+          },
+          {
+            "id": "65754cac9e02b2398bc5bcc0",
+            "x": 0,
+            "y": 330,
+            "width": 390,
+            "height": 11893.03125
+          },
+          {
+            "id": "65850f61000e266ad0a6d128",
+            "x": 0,
+            "y": 12223.03125,
+            "width": 390,
+            "height": 339
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 12562.03125,
+            "width": 390,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    },
+    {
+      "width": 375,
+      "reference": {
+        "width": 375,
+        "height": 12799,
+        "header": 139,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 201.6953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438508-B9L3SBCY6PPI8WPD5C1L/WechatIMG10.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "45.9199% 68.8043%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438516-7C4UETS2GG40XQL18P39/WechatIMG14.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1e5100d6-a7e1-449c-bdcb-76f7e39e6c2f/WechatIMG132.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438532-6PCF8LWEGS2IZCL2N5N9/WechatIMG17.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438541-S09RU0F8XH3TCQNTZ7YG/Screen+Shot+2020-10-20+at+1.15.55+AM.png?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438552-K2L0YQK9W9CQGK49VNSG/WechatIMG13.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625736237261-9BH21PJGRTBUVC1FBUV9/eric.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438560-9X9DYBA2HSKAMDWJUJNS/WechatIMG12.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1624677438568-8CIIMAPY9UALKZZJHJ93/WechatIMG15.jpeg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1625824965752-K9LKWOBXKX3HFFZQHSC2/Lilian.png?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/ae764e5e-62c8-4458-b403-0ed1db5a9c09/WechatIMG231.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b12c0020-a982-463d-814e-6d75a2b28b24/WechatIMG211.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/57b6cf83-0547-4f8e-81b3-89191bb18a1b/WechatIMG194.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/be43be9d-fe0e-4302-ad47-4bd798ae9f17/WechatIMG235.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0567b220-07de-45fa-a319-f5b22024aee5/WechatIMG252.jpg?format=1000w",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65754cac9e02b2398bc5bcbf",
+            "x": 0,
+            "y": 0,
+            "width": 375,
+            "height": 330
+          },
+          {
+            "id": "65754cac9e02b2398bc5bcc0",
+            "x": 0,
+            "y": 330,
+            "width": 375,
+            "height": 11799.84375
+          },
+          {
+            "id": "65850f61000e266ad0a6d128",
+            "x": 0,
+            "y": 12129.84375,
+            "width": 375,
+            "height": 339
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 12468.84375,
+            "width": 375,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      },
+      "local": {
+        "width": 375,
+        "height": 12799,
+        "header": 139,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Aucta_Logo-01-cc0cecbd3e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 201.6953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG10-cdf6543b51.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "45.9199% 68.8043%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG14-96d1eb583e.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG132-3ffb121c1b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG17-3140248f27.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Screen-Shot-2020-10-20-at-1.15.55-AM-daa2b57afb.png",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG13-24f3680fbc.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/eric-1eb78c758b.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG12-b620f2813b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG15-96ddd8047b.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Lilian-eb52d184a8.png",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG231-10985714f3.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG211-48a6106ab0.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG194-736bb019b6.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG235-a2565dc28e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/WechatIMG252-4c56428229.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 352.5,
+            "height": 353.5,
+            "x": 11.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65754cac9e02b2398bc5bcbf",
+            "x": 0,
+            "y": 0,
+            "width": 375,
+            "height": 330
+          },
+          {
+            "id": "65754cac9e02b2398bc5bcc0",
+            "x": 0,
+            "y": 330,
+            "width": 375,
+            "height": 11799.84375
+          },
+          {
+            "id": "65850f61000e266ad0a6d128",
+            "x": 0,
+            "y": 12129.84375,
+            "width": 375,
+            "height": 339
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 12468.84375,
+            "width": 375,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 0
+      }
+    }
+  ],
+  "note": "Rendered DOM geometry from a locally served reference HTML snapshot with original remote scripts/assets; Adobe fonts may be unavailable on the comparison origin. This is not a live-origin screenshot comparison."
+}

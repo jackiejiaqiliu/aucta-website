@@ -1,0 +1,36 @@
+{
+  "name": "matrix-complete",
+  "routes": [
+    "/",
+    "/about-us",
+    "/about/founders-letter",
+    "/about/our-journey",
+    "/admissions-result",
+    "/admissions-result/graduate",
+    "/admissions-result/undergraduate",
+    "/contact",
+    "/graduate-1",
+    "/graduate-services/faqs",
+    "/graduate-services/overview",
+    "/our-team",
+    "/our-team/chinese-consultants",
+    "/our-team/management-team",
+    "/our-team/us-consultants",
+    "/services",
+    "/student-testimonials/graduate",
+    "/student-testimonials/undergraduate",
+    "/student_testimonials",
+    "/undergraduate-services/faqs",
+    "/undergraduate-services/overview",
+    "/home",
+    "/why-choose-us"
+  ],
+  "widths": [
+    1440,
+    1280,
+    1024,
+    768,
+    390,
+    375
+  ]
+}

@@ -1,0 +1,9 @@
+/* Locally retained reference stylesheet; see reconstruction-report.md. */
+@font-face {
+  font-family: 'Aucta Heading';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: expanded;
+  font-display: swap;
+  src: url(../assets/fonts/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf) format('truetype');
+}

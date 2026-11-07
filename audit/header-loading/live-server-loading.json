@@ -1,0 +1,291 @@
+{
+  "name": "live-server-loading",
+  "origin": "http://127.0.0.1:5500",
+  "pages": [
+    {
+      "route": "/",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 104
+        },
+        {
+          "name": "first-contentful-paint",
+          "startTime": 144
+        }
+      ],
+      "domInteractive": 48.90000057220459,
+      "domContentLoaded": 79.10000038146973,
+      "load": 79.20000076293945
+    },
+    {
+      "route": "/about-us",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 52
+        }
+      ],
+      "domInteractive": 29.5,
+      "domContentLoaded": 33.5,
+      "load": 33.59999942779541
+    },
+    {
+      "route": "/about/founders-letter",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 36
+        }
+      ],
+      "domInteractive": 20.199999809265137,
+      "domContentLoaded": 24.100000381469727,
+      "load": 24.199999809265137
+    },
+    {
+      "route": "/about/our-journey",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 56
+        }
+      ],
+      "domInteractive": 23.40000057220459,
+      "domContentLoaded": 31.199999809265137,
+      "load": 31.300000190734863
+    },
+    {
+      "route": "/admissions-result",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 64
+        }
+      ],
+      "domInteractive": 27.800000190734863,
+      "domContentLoaded": 39.90000057220459,
+      "load": 40.10000038146973
+    },
+    {
+      "route": "/admissions-result/graduate",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 56
+        }
+      ],
+      "domInteractive": 31.700000762939453,
+      "domContentLoaded": 38.70000076293945,
+      "load": 38.90000057220459
+    },
+    {
+      "route": "/admissions-result/undergraduate",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 72
+        }
+      ],
+      "domInteractive": 36.30000019073486,
+      "domContentLoaded": 45,
+      "load": 45.10000038146973
+    },
+    {
+      "route": "/contact",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 56
+        }
+      ],
+      "domInteractive": 23.600000381469727,
+      "domContentLoaded": 32.19999980926514,
+      "load": 32.30000019073486
+    },
+    {
+      "route": "/graduate-1",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 48
+        }
+      ],
+      "domInteractive": 20.399999618530273,
+      "domContentLoaded": 31.100000381469727,
+      "load": 31.100000381469727
+    },
+    {
+      "route": "/graduate-services/faqs",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 52
+        }
+      ],
+      "domInteractive": 25.600000381469727,
+      "domContentLoaded": 33,
+      "load": 33.10000038146973
+    },
+    {
+      "route": "/graduate-services/overview",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 52
+        }
+      ],
+      "domInteractive": 16.09999942779541,
+      "domContentLoaded": 27.399999618530273,
+      "load": 29.59999942779541
+    },
+    {
+      "route": "/our-team",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 44
+        }
+      ],
+      "domInteractive": 22.299999237060547,
+      "domContentLoaded": 26.799999237060547,
+      "load": 28
+    },
+    {
+      "route": "/our-team/chinese-consultants",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 56
+        }
+      ],
+      "domInteractive": 27.699999809265137,
+      "domContentLoaded": 34.60000038146973,
+      "load": 36
+    },
+    {
+      "route": "/our-team/management-team",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 48
+        }
+      ],
+      "domInteractive": 18,
+      "domContentLoaded": 29.5,
+      "load": 29.600000381469727
+    },
+    {
+      "route": "/our-team/us-consultants",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 48
+        }
+      ],
+      "domInteractive": 19.299999237060547,
+      "domContentLoaded": 30.699999809265137,
+      "load": 30.799999237060547
+    },
+    {
+      "route": "/services",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 56
+        }
+      ],
+      "domInteractive": 30.5,
+      "domContentLoaded": 35.30000019073486,
+      "load": 35.30000019073486
+    },
+    {
+      "route": "/student-testimonials/graduate",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 64
+        }
+      ],
+      "domInteractive": 48,
+      "domContentLoaded": 57.69999980926514,
+      "load": 59.19999980926514
+    },
+    {
+      "route": "/student-testimonials/undergraduate",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 68
+        }
+      ],
+      "domInteractive": 47.10000038146973,
+      "domContentLoaded": 55.30000019073486,
+      "load": 56.80000019073486
+    },
+    {
+      "route": "/student_testimonials",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 72
+        }
+      ],
+      "domInteractive": 51.60000038146973,
+      "domContentLoaded": 60.39999961853027,
+      "load": 60.5
+    },
+    {
+      "route": "/undergraduate-services/faqs",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 56
+        }
+      ],
+      "domInteractive": 23.600000381469727,
+      "domContentLoaded": 31.800000190734863,
+      "load": 32
+    },
+    {
+      "route": "/undergraduate-services/overview",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 52
+        }
+      ],
+      "domInteractive": 31.399999618530273,
+      "domContentLoaded": 35.89999961853027,
+      "load": 36.10000038146973
+    },
+    {
+      "route": "/home",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 76
+        },
+        {
+          "name": "first-contentful-paint",
+          "startTime": 108
+        }
+      ],
+      "domInteractive": 31,
+      "domContentLoaded": 47.60000038146973,
+      "load": 106.60000038146973
+    },
+    {
+      "route": "/why-choose-us",
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 48
+        }
+      ],
+      "domInteractive": 19,
+      "domContentLoaded": 25,
+      "load": 25.200000762939453
+    }
+  ],
+  "note": "Same-origin page navigation timing in this browser; cache and device conditions affect results."
+}

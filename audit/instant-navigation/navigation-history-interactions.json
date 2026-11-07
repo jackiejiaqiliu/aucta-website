@@ -1,0 +1,9 @@
+{
+  "name": "navigation-history-interactions",
+  "accordion": true,
+  "actualRelativeLink": true,
+  "back": true,
+  "forward": true,
+  "lightbox": true,
+  "errors": []
+}

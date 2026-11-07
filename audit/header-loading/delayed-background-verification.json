@@ -1,0 +1,21 @@
+{
+  "name": "delayed-background-verification",
+  "initializedWhileBelowFold": false,
+  "initialScroll": 0,
+  "initialTop": 3677.265625,
+  "initialViewport": 1000,
+  "initializedWhenVisible": true,
+  "width": 2160,
+  "height": 990,
+  "webgl": true,
+  "glError": 0,
+  "initialButtons": [
+    true,
+    false
+  ],
+  "toggledButtons": [
+    false,
+    true
+  ],
+  "errors": []
+}

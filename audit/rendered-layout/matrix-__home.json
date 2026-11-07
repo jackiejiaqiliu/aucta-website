@@ -1,0 +1,5131 @@
+{
+  "name": "matrix-__home",
+  "route": "/home",
+  "samples": [
+    {
+      "width": 1440,
+      "reference": {
+        "width": 1440,
+        "height": 4644,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 160.84375,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702334481372-GSVTAIOLX0CZNNNH08WZ/image-asset.jpeg?format=2500w",
+            "loaded": true,
+            "visible": true,
+            "width": 614.4453125,
+            "height": 510.3203125,
+            "x": 782.359375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/710b1247-9fae-4c15-9d8e-58d0d88aeaf1/javier-trueba-iQPr1XkF5F0-unsplash.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 485.1015625,
+            "height": 273.8671875,
+            "x": 124.046875,
+            "objectFit": "cover",
+            "objectPosition": "50.5344% 19.2012%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/08195fcd-19a4-47a7-aee2-ba3fe95a9dbb/jason-goodman-Oalh2MojUuk-unsplash.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 485.1015625,
+            "height": 273.8671875,
+            "x": 830.8515625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/3b5c2012-eb3e-41bb-816f-28bf5d0cb68a/MIT+Admission+Letter+No+Name+with+watermark.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 258,
+            "height": 355,
+            "x": 591.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0c676bd7-85de-4f55-8908-b65d589ede16/Offer-UG-UPenn-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 849.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/a74a4b05-910b-4f33-9aeb-d2a5e17d2e8e/Offer-UG-Cornell-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 1123.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/96a173b7-d63c-426e-a1fe-7aa496166fc6/Offer-UG-UCB-Jennifer.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9955.8046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/27eedce9-076a-4c23-b60c-36d8033a5974/Offer-UG-UCLA-Tiana+Wang.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9955.8046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/2d63e0dd-8cfc-43e1-a1cd-5721ad342732/Offer-UG-Rice-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9955.8046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa3a1402-8619-41fb-9277-ac0b8e99ca85/dartmouth-watermarked+2.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9955.8046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/201bd658-086f-4c55-b482-d645404ecc20/Offer-UG-Vanderbilt.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 272,
+            "height": 355,
+            "x": -9955.8046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7c43e474-b038-472f-8847-210c9f580145/Offer-Transfer-UMich-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9955.8046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/128a2dad-449d-45da-9695-753d83142274/%E5%8D%97%E5%8A%A0%E5%A4%A7%E5%BD%95%E5%8F%96_13.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 251,
+            "height": 355,
+            "x": -9955.8046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/866c5252-ee30-48bf-8991-8271543b096e/Emory-2.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9955.8046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b41cba47-1b14-4fd0-b479-b17afef3a993/CMUOffer_8.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9955.8046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa5926d3-a135-4e9a-95af-ec2def952132/Middlebury+offer_7.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9955.8046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/8eb1a596-f196-4182-bfed-e262fe2d8e80/Offer-Transfer-UNC-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 251,
+            "height": 355,
+            "x": -9955.8046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/6d614efd-64b6-4a1f-8206-ed0b26706430/NYU+Offer+Letter_3.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9955.8046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/434f3645-c475-4a3a-a4fe-90b8f7fb5d22/Barnard+Offer.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -209.8046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/05b8178b-44e5-4139-9464-3ee664f9b263/Offer-UG-Northwestern.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 253,
+            "height": 355,
+            "x": 64.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7379f7d0-7163-4963-9c52-48d172853e5d/Yale+Acceptance+Letter.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 317.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/3b5c2012-eb3e-41bb-816f-28bf5d0cb68a/MIT+Admission+Letter+No+Name+with+watermark.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0c676bd7-85de-4f55-8908-b65d589ede16/Offer-UG-UPenn-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/a74a4b05-910b-4f33-9aeb-d2a5e17d2e8e/Offer-UG-Cornell-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/96a173b7-d63c-426e-a1fe-7aa496166fc6/Offer-UG-UCB-Jennifer.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/27eedce9-076a-4c23-b60c-36d8033a5974/Offer-UG-UCLA-Tiana+Wang.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/2d63e0dd-8cfc-43e1-a1cd-5721ad342732/Offer-UG-Rice-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa3a1402-8619-41fb-9277-ac0b8e99ca85/dartmouth-watermarked+2.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/201bd658-086f-4c55-b482-d645404ecc20/Offer-UG-Vanderbilt.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7c43e474-b038-472f-8847-210c9f580145/Offer-Transfer-UMich-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/128a2dad-449d-45da-9695-753d83142274/%E5%8D%97%E5%8A%A0%E5%A4%A7%E5%BD%95%E5%8F%96_13.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/866c5252-ee30-48bf-8991-8271543b096e/Emory-2.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b41cba47-1b14-4fd0-b479-b17afef3a993/CMUOffer_8.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa5926d3-a135-4e9a-95af-ec2def952132/Middlebury+offer_7.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/8eb1a596-f196-4182-bfed-e262fe2d8e80/Offer-Transfer-UNC-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/6d614efd-64b6-4a1f-8206-ed0b26706430/NYU+Offer+Letter_3.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/434f3645-c475-4a3a-a4fe-90b8f7fb5d22/Barnard+Offer.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/05b8178b-44e5-4139-9464-3ee664f9b263/Offer-UG-Northwestern.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7379f7d0-7163-4963-9c52-48d172853e5d/Yale+Acceptance+Letter.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65778ad8ee63ff0cda2697db",
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 799.5390625
+          },
+          {
+            "id": "6577919e3123e24bc42e920e",
+            "x": 0,
+            "y": 799.5390625,
+            "width": 1440,
+            "height": 660
+          },
+          {
+            "id": "65779407bc729a597d25da04",
+            "x": 0,
+            "y": 1459.5390625,
+            "width": 1440,
+            "height": 686.609375
+          },
+          {
+            "id": "65779b34e22530211a60f94d",
+            "x": 0,
+            "y": 2146.1484375,
+            "width": 1440,
+            "height": 163.6875
+          },
+          {
+            "id": "6577996f020aba3da6f5ce5f",
+            "x": 0,
+            "y": 2309.8359375,
+            "width": 1440,
+            "height": 500
+          },
+          {
+            "id": "65779de4e9524c263364eeb9",
+            "x": 0,
+            "y": 2809.8359375,
+            "width": 1440,
+            "height": 844.09375
+          },
+          {
+            "id": "657791222b342670516cd830",
+            "x": 0,
+            "y": 3653.9296875,
+            "width": 1440,
+            "height": 660
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 4313.9296875,
+            "width": 1440,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 1
+      },
+      "local": {
+        "width": 1440,
+        "height": 4667,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4746b4db68.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 614.4453125,
+            "height": 510.3203125,
+            "x": 782.359375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/javier-trueba-iQPr1XkF5F0-unsplash-a0c129182b.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 485.1015625,
+            "height": 273.8671875,
+            "x": 124.046875,
+            "objectFit": "cover",
+            "objectPosition": "50.5344% 19.2012%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/jason-goodman-Oalh2MojUuk-unsplash-14a69017fe.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 485.1015625,
+            "height": 273.8671875,
+            "x": 830.8515625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/MIT-Admission-Letter-No-Name-with-watermark-24cb0fcf5e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 258.046875,
+            "height": 354.609375,
+            "x": 43.1953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UPenn-Tiana-f49ebc3cf8.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.2421875,
+            "height": 354.609375,
+            "x": 311.2421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Cornell-Tiana-3d88d45307.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 354.609375,
+            "x": 595.484375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UCB-Jennifer-6a6c103408.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 354.609375,
+            "x": 879.796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UCLA-Tiana-Wang-ddeeecc21f.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 354.609375,
+            "x": 1164.109375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Rice-Tiana-da14971adf.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 354.609375,
+            "x": 1448.421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/dartmouth-watermarked-2-b0dfb7798a.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 354.609375,
+            "x": 1732.734375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Vanderbilt-36d89cb530.png",
+            "loaded": true,
+            "visible": true,
+            "width": 271.90625,
+            "height": 354.609375,
+            "x": 2017.046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-Transfer-UMich-Mike-c2fe48cbb4.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 354.609375,
+            "x": 2298.953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/_13-4b4dd0d3ee.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 250.8828125,
+            "height": 354.609375,
+            "x": 2583.265625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Emory-2-c01ce05707.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 354.609375,
+            "x": 2844.1484375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/CMUOffer_8-dcb5eb7c6e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 354.609375,
+            "x": 3128.4609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Middlebury-offer_7-d1d1120e7d.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 354.609375,
+            "x": 3412.7734375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-Transfer-UNC-Mike-313a6d0afc.png",
+            "loaded": true,
+            "visible": true,
+            "width": 251.03125,
+            "height": 354.609375,
+            "x": 3697.0859375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/NYU-Offer-Letter_3-90bddb6646.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 354.609375,
+            "x": 3958.1171875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Barnard-Offer-7d8eb80de1.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 354.609375,
+            "x": 4242.4296875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Northwestern-3fcec5e4a9.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 252.9609375,
+            "height": 354.609375,
+            "x": 4526.7421875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Yale-Acceptance-Letter-da0cc74a0e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 354.609375,
+            "x": 4789.703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65778ad8ee63ff0cda2697db",
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 799.5390625
+          },
+          {
+            "id": "6577919e3123e24bc42e920e",
+            "x": 0,
+            "y": 799.5390625,
+            "width": 1440,
+            "height": 660
+          },
+          {
+            "id": "65779407bc729a597d25da04",
+            "x": 0,
+            "y": 1459.5390625,
+            "width": 1440,
+            "height": 686.609375
+          },
+          {
+            "id": "65779b34e22530211a60f94d",
+            "x": 0,
+            "y": 2146.1484375,
+            "width": 1440,
+            "height": 163.6875
+          },
+          {
+            "id": "6577996f020aba3da6f5ce5f",
+            "x": 0,
+            "y": 2309.8359375,
+            "width": 1440,
+            "height": 500
+          },
+          {
+            "id": "65779de4e9524c263364eeb9",
+            "x": 0,
+            "y": 2809.8359375,
+            "width": 1440,
+            "height": 867.421875
+          },
+          {
+            "id": "657791222b342670516cd830",
+            "x": 0,
+            "y": 3677.2578125,
+            "width": 1440,
+            "height": 660
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 4337.2578125,
+            "width": 1440,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 1
+      }
+    },
+    {
+      "width": 1280,
+      "reference": {
+        "width": 1280,
+        "height": 4537,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 160.84375,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702334481372-GSVTAIOLX0CZNNNH08WZ/image-asset.jpeg?format=2500w",
+            "loaded": true,
+            "visible": true,
+            "width": 545.5078125,
+            "height": 468.2734375,
+            "x": 696.09375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/710b1247-9fae-4c15-9d8e-58d0d88aeaf1/javier-trueba-iQPr1XkF5F0-unsplash.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 428.6953125,
+            "height": 242.140625,
+            "x": 109.8515625,
+            "objectFit": "cover",
+            "objectPosition": "50.5344% 19.2012%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/08195fcd-19a4-47a7-aee2-ba3fe95a9dbb/jason-goodman-Oalh2MojUuk-unsplash.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 428.6953125,
+            "height": 242.140625,
+            "x": 741.453125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/3b5c2012-eb3e-41bb-816f-28bf5d0cb68a/MIT+Admission+Letter+No+Name+with+watermark.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 258,
+            "height": 355,
+            "x": 586.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0c676bd7-85de-4f55-8908-b65d589ede16/Offer-UG-UPenn-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 844.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/a74a4b05-910b-4f33-9aeb-d2a5e17d2e8e/Offer-UG-Cornell-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 1118.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/96a173b7-d63c-426e-a1fe-7aa496166fc6/Offer-UG-UCB-Jennifer.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9960.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/27eedce9-076a-4c23-b60c-36d8033a5974/Offer-UG-UCLA-Tiana+Wang.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9960.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/2d63e0dd-8cfc-43e1-a1cd-5721ad342732/Offer-UG-Rice-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9960.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa3a1402-8619-41fb-9277-ac0b8e99ca85/dartmouth-watermarked+2.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9960.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/201bd658-086f-4c55-b482-d645404ecc20/Offer-UG-Vanderbilt.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 272,
+            "height": 355,
+            "x": -9960.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7c43e474-b038-472f-8847-210c9f580145/Offer-Transfer-UMich-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9960.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/128a2dad-449d-45da-9695-753d83142274/%E5%8D%97%E5%8A%A0%E5%A4%A7%E5%BD%95%E5%8F%96_13.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 251,
+            "height": 355,
+            "x": -9960.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/866c5252-ee30-48bf-8991-8271543b096e/Emory-2.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9960.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b41cba47-1b14-4fd0-b479-b17afef3a993/CMUOffer_8.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9960.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa5926d3-a135-4e9a-95af-ec2def952132/Middlebury+offer_7.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9960.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/8eb1a596-f196-4182-bfed-e262fe2d8e80/Offer-Transfer-UNC-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 251,
+            "height": 355,
+            "x": -9960.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/6d614efd-64b6-4a1f-8206-ed0b26706430/NYU+Offer+Letter_3.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9960.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/434f3645-c475-4a3a-a4fe-90b8f7fb5d22/Barnard+Offer.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -214.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/05b8178b-44e5-4139-9464-3ee664f9b263/Offer-UG-Northwestern.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 253,
+            "height": 355,
+            "x": 59.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7379f7d0-7163-4963-9c52-48d172853e5d/Yale+Acceptance+Letter.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 312.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/3b5c2012-eb3e-41bb-816f-28bf5d0cb68a/MIT+Admission+Letter+No+Name+with+watermark.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0c676bd7-85de-4f55-8908-b65d589ede16/Offer-UG-UPenn-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/a74a4b05-910b-4f33-9aeb-d2a5e17d2e8e/Offer-UG-Cornell-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/96a173b7-d63c-426e-a1fe-7aa496166fc6/Offer-UG-UCB-Jennifer.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/27eedce9-076a-4c23-b60c-36d8033a5974/Offer-UG-UCLA-Tiana+Wang.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/2d63e0dd-8cfc-43e1-a1cd-5721ad342732/Offer-UG-Rice-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa3a1402-8619-41fb-9277-ac0b8e99ca85/dartmouth-watermarked+2.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/201bd658-086f-4c55-b482-d645404ecc20/Offer-UG-Vanderbilt.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7c43e474-b038-472f-8847-210c9f580145/Offer-Transfer-UMich-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/128a2dad-449d-45da-9695-753d83142274/%E5%8D%97%E5%8A%A0%E5%A4%A7%E5%BD%95%E5%8F%96_13.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/866c5252-ee30-48bf-8991-8271543b096e/Emory-2.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b41cba47-1b14-4fd0-b479-b17afef3a993/CMUOffer_8.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa5926d3-a135-4e9a-95af-ec2def952132/Middlebury+offer_7.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/8eb1a596-f196-4182-bfed-e262fe2d8e80/Offer-Transfer-UNC-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/6d614efd-64b6-4a1f-8206-ed0b26706430/NYU+Offer+Letter_3.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/434f3645-c475-4a3a-a4fe-90b8f7fb5d22/Barnard+Offer.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/05b8178b-44e5-4139-9464-3ee664f9b263/Offer-UG-Northwestern.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7379f7d0-7163-4963-9c52-48d172853e5d/Yale+Acceptance+Letter.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65778ad8ee63ff0cda2697db",
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 743.6953125
+          },
+          {
+            "id": "6577919e3123e24bc42e920e",
+            "x": 0,
+            "y": 743.6953125,
+            "width": 1280,
+            "height": 660
+          },
+          {
+            "id": "65779407bc729a597d25da04",
+            "x": 0,
+            "y": 1403.6953125,
+            "width": 1280,
+            "height": 624.046875
+          },
+          {
+            "id": "65779b34e22530211a60f94d",
+            "x": 0,
+            "y": 2027.7421875,
+            "width": 1280,
+            "height": 151.40625
+          },
+          {
+            "id": "6577996f020aba3da6f5ce5f",
+            "x": 0,
+            "y": 2179.1484375,
+            "width": 1280,
+            "height": 500
+          },
+          {
+            "id": "65779de4e9524c263364eeb9",
+            "x": 0,
+            "y": 2679.1484375,
+            "width": 1280,
+            "height": 868.046875
+          },
+          {
+            "id": "657791222b342670516cd830",
+            "x": 0,
+            "y": 3547.1953125,
+            "width": 1280,
+            "height": 660
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 4207.1953125,
+            "width": 1280,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 1
+      },
+      "local": {
+        "width": 1280,
+        "height": 4600,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4746b4db68.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 545.5078125,
+            "height": 508.4765625,
+            "x": 696.09375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/javier-trueba-iQPr1XkF5F0-unsplash-a0c129182b.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 428.6953125,
+            "height": 242.140625,
+            "x": 109.8515625,
+            "objectFit": "cover",
+            "objectPosition": "50.5344% 19.2012%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/jason-goodman-Oalh2MojUuk-unsplash-14a69017fe.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 428.6953125,
+            "height": 242.140625,
+            "x": 741.453125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/MIT-Admission-Letter-No-Name-with-watermark-24cb0fcf5e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 258.046875,
+            "height": 364.203125,
+            "x": 38.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UPenn-Tiana-f49ebc3cf8.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.2421875,
+            "height": 364.203125,
+            "x": 306.4453125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Cornell-Tiana-3d88d45307.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 364.203125,
+            "x": 590.6875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UCB-Jennifer-6a6c103408.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 364.203125,
+            "x": 875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UCLA-Tiana-Wang-ddeeecc21f.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 364.203125,
+            "x": 1159.3125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Rice-Tiana-da14971adf.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 364.203125,
+            "x": 1443.625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/dartmouth-watermarked-2-b0dfb7798a.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 364.203125,
+            "x": 1727.9375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Vanderbilt-36d89cb530.png",
+            "loaded": true,
+            "visible": true,
+            "width": 271.90625,
+            "height": 364.203125,
+            "x": 2012.25,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-Transfer-UMich-Mike-c2fe48cbb4.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 364.203125,
+            "x": 2294.15625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/_13-4b4dd0d3ee.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 250.8828125,
+            "height": 364.203125,
+            "x": 2578.46875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Emory-2-c01ce05707.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 364.203125,
+            "x": 2839.3515625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/CMUOffer_8-dcb5eb7c6e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 364.203125,
+            "x": 3123.6640625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Middlebury-offer_7-d1d1120e7d.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 364.203125,
+            "x": 3407.9765625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-Transfer-UNC-Mike-313a6d0afc.png",
+            "loaded": true,
+            "visible": true,
+            "width": 251.03125,
+            "height": 364.203125,
+            "x": 3692.2890625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/NYU-Offer-Letter_3-90bddb6646.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 364.203125,
+            "x": 3953.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Barnard-Offer-7d8eb80de1.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 364.203125,
+            "x": 4237.6328125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Northwestern-3fcec5e4a9.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 252.9609375,
+            "height": 364.203125,
+            "x": 4521.9453125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Yale-Acceptance-Letter-da0cc74a0e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 364.203125,
+            "x": 4784.90625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65778ad8ee63ff0cda2697db",
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 783.8984375
+          },
+          {
+            "id": "6577919e3123e24bc42e920e",
+            "x": 0,
+            "y": 783.8984375,
+            "width": 1280,
+            "height": 660
+          },
+          {
+            "id": "65779407bc729a597d25da04",
+            "x": 0,
+            "y": 1443.8984375,
+            "width": 1280,
+            "height": 624.046875
+          },
+          {
+            "id": "65779b34e22530211a60f94d",
+            "x": 0,
+            "y": 2067.9453125,
+            "width": 1280,
+            "height": 151.40625
+          },
+          {
+            "id": "6577996f020aba3da6f5ce5f",
+            "x": 0,
+            "y": 2219.3515625,
+            "width": 1280,
+            "height": 500
+          },
+          {
+            "id": "65779de4e9524c263364eeb9",
+            "x": 0,
+            "y": 2719.3515625,
+            "width": 1280,
+            "height": 891.1015625
+          },
+          {
+            "id": "657791222b342670516cd830",
+            "x": 0,
+            "y": 3610.453125,
+            "width": 1280,
+            "height": 660
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 4270.453125,
+            "width": 1280,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 1
+      }
+    },
+    {
+      "width": 1024,
+      "reference": {
+        "width": 1024,
+        "height": 4433,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 160.84375,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702334481372-GSVTAIOLX0CZNNNH08WZ/image-asset.jpeg?format=2500w",
+            "loaded": true,
+            "visible": true,
+            "width": 435.2109375,
+            "height": 402.8828125,
+            "x": 558.0703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/710b1247-9fae-4c15-9d8e-58d0d88aeaf1/javier-trueba-iQPr1XkF5F0-unsplash.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 338.4609375,
+            "height": 191.3828125,
+            "x": 87.125,
+            "objectFit": "cover",
+            "objectPosition": "50.5344% 19.2012%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/08195fcd-19a4-47a7-aee2-ba3fe95a9dbb/jason-goodman-Oalh2MojUuk-unsplash.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 338.4609375,
+            "height": 191.3828125,
+            "x": 598.40625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/3b5c2012-eb3e-41bb-816f-28bf5d0cb68a/MIT+Admission+Letter+No+Name+with+watermark.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 258,
+            "height": 355,
+            "x": 578.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0c676bd7-85de-4f55-8908-b65d589ede16/Offer-UG-UPenn-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 836.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/a74a4b05-910b-4f33-9aeb-d2a5e17d2e8e/Offer-UG-Cornell-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 1110.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/96a173b7-d63c-426e-a1fe-7aa496166fc6/Offer-UG-UCB-Jennifer.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9968.28125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/27eedce9-076a-4c23-b60c-36d8033a5974/Offer-UG-UCLA-Tiana+Wang.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9968.28125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/2d63e0dd-8cfc-43e1-a1cd-5721ad342732/Offer-UG-Rice-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9968.28125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa3a1402-8619-41fb-9277-ac0b8e99ca85/dartmouth-watermarked+2.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9968.28125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/201bd658-086f-4c55-b482-d645404ecc20/Offer-UG-Vanderbilt.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 272,
+            "height": 355,
+            "x": -9968.28125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7c43e474-b038-472f-8847-210c9f580145/Offer-Transfer-UMich-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9968.28125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/128a2dad-449d-45da-9695-753d83142274/%E5%8D%97%E5%8A%A0%E5%A4%A7%E5%BD%95%E5%8F%96_13.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 251,
+            "height": 355,
+            "x": -9968.28125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/866c5252-ee30-48bf-8991-8271543b096e/Emory-2.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9968.28125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b41cba47-1b14-4fd0-b479-b17afef3a993/CMUOffer_8.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9968.28125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa5926d3-a135-4e9a-95af-ec2def952132/Middlebury+offer_7.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9968.28125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/8eb1a596-f196-4182-bfed-e262fe2d8e80/Offer-Transfer-UNC-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 251,
+            "height": 355,
+            "x": -9968.28125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/6d614efd-64b6-4a1f-8206-ed0b26706430/NYU+Offer+Letter_3.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9968.28125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/434f3645-c475-4a3a-a4fe-90b8f7fb5d22/Barnard+Offer.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -222.28125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/05b8178b-44e5-4139-9464-3ee664f9b263/Offer-UG-Northwestern.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 253,
+            "height": 355,
+            "x": 51.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7379f7d0-7163-4963-9c52-48d172853e5d/Yale+Acceptance+Letter.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 304.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/3b5c2012-eb3e-41bb-816f-28bf5d0cb68a/MIT+Admission+Letter+No+Name+with+watermark.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0c676bd7-85de-4f55-8908-b65d589ede16/Offer-UG-UPenn-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/a74a4b05-910b-4f33-9aeb-d2a5e17d2e8e/Offer-UG-Cornell-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/96a173b7-d63c-426e-a1fe-7aa496166fc6/Offer-UG-UCB-Jennifer.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/27eedce9-076a-4c23-b60c-36d8033a5974/Offer-UG-UCLA-Tiana+Wang.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/2d63e0dd-8cfc-43e1-a1cd-5721ad342732/Offer-UG-Rice-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa3a1402-8619-41fb-9277-ac0b8e99ca85/dartmouth-watermarked+2.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/201bd658-086f-4c55-b482-d645404ecc20/Offer-UG-Vanderbilt.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7c43e474-b038-472f-8847-210c9f580145/Offer-Transfer-UMich-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/128a2dad-449d-45da-9695-753d83142274/%E5%8D%97%E5%8A%A0%E5%A4%A7%E5%BD%95%E5%8F%96_13.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/866c5252-ee30-48bf-8991-8271543b096e/Emory-2.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b41cba47-1b14-4fd0-b479-b17afef3a993/CMUOffer_8.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa5926d3-a135-4e9a-95af-ec2def952132/Middlebury+offer_7.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/8eb1a596-f196-4182-bfed-e262fe2d8e80/Offer-Transfer-UNC-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/6d614efd-64b6-4a1f-8206-ed0b26706430/NYU+Offer+Letter_3.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/434f3645-c475-4a3a-a4fe-90b8f7fb5d22/Barnard+Offer.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/05b8178b-44e5-4139-9464-3ee664f9b263/Offer-UG-Northwestern.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7379f7d0-7163-4963-9c52-48d172853e5d/Yale+Acceptance+Letter.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65778ad8ee63ff0cda2697db",
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 656.234375
+          },
+          {
+            "id": "6577919e3123e24bc42e920e",
+            "x": 0,
+            "y": 656.234375,
+            "width": 1024,
+            "height": 660
+          },
+          {
+            "id": "65779407bc729a597d25da04",
+            "x": 0,
+            "y": 1316.234375,
+            "width": 1024,
+            "height": 522.5546875
+          },
+          {
+            "id": "65779b34e22530211a60f94d",
+            "x": 0,
+            "y": 1838.7890625,
+            "width": 1024,
+            "height": 131.734375
+          },
+          {
+            "id": "6577996f020aba3da6f5ce5f",
+            "x": 0,
+            "y": 1970.5234375,
+            "width": 1024,
+            "height": 500
+          },
+          {
+            "id": "65779de4e9524c263364eeb9",
+            "x": 0,
+            "y": 2470.5234375,
+            "width": 1024,
+            "height": 972.2265625
+          },
+          {
+            "id": "657791222b342670516cd830",
+            "x": 0,
+            "y": 3442.75,
+            "width": 1024,
+            "height": 660
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 4102.75,
+            "width": 1024,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 1
+      },
+      "local": {
+        "width": 1024,
+        "height": 4470,
+        "header": 154.0859375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": true,
+            "width": 143.8671875,
+            "height": 79.9921875,
+            "x": 43.1953125,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4746b4db68.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 435.2109375,
+            "height": 440.0625,
+            "x": 558.0703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/javier-trueba-iQPr1XkF5F0-unsplash-a0c129182b.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 338.4609375,
+            "height": 191.3828125,
+            "x": 87.125,
+            "objectFit": "cover",
+            "objectPosition": "50.5344% 19.2012%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/jason-goodman-Oalh2MojUuk-unsplash-14a69017fe.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 338.4609375,
+            "height": 191.3828125,
+            "x": 598.40625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/MIT-Admission-Letter-No-Name-with-watermark-24cb0fcf5e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 258.046875,
+            "height": 379.5625,
+            "x": 30.71875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UPenn-Tiana-f49ebc3cf8.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.2421875,
+            "height": 379.5625,
+            "x": 298.765625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Cornell-Tiana-3d88d45307.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 379.5625,
+            "x": 583.0078125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UCB-Jennifer-6a6c103408.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 379.5625,
+            "x": 867.3203125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UCLA-Tiana-Wang-ddeeecc21f.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 379.5625,
+            "x": 1151.6328125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Rice-Tiana-da14971adf.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 379.5625,
+            "x": 1435.9453125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/dartmouth-watermarked-2-b0dfb7798a.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 379.5625,
+            "x": 1720.2578125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Vanderbilt-36d89cb530.png",
+            "loaded": true,
+            "visible": true,
+            "width": 271.90625,
+            "height": 379.5625,
+            "x": 2004.5703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-Transfer-UMich-Mike-c2fe48cbb4.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 379.5625,
+            "x": 2286.4765625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/_13-4b4dd0d3ee.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 250.8828125,
+            "height": 379.5625,
+            "x": 2570.7890625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Emory-2-c01ce05707.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 379.5625,
+            "x": 2831.671875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/CMUOffer_8-dcb5eb7c6e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 379.5625,
+            "x": 3115.984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Middlebury-offer_7-d1d1120e7d.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 379.5625,
+            "x": 3400.296875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-Transfer-UNC-Mike-313a6d0afc.png",
+            "loaded": true,
+            "visible": true,
+            "width": 251.03125,
+            "height": 379.5625,
+            "x": 3684.609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/NYU-Offer-Letter_3-90bddb6646.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 379.5625,
+            "x": 3945.640625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Barnard-Offer-7d8eb80de1.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 379.5625,
+            "x": 4229.953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Northwestern-3fcec5e4a9.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 252.9609375,
+            "height": 379.5625,
+            "x": 4514.265625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Yale-Acceptance-Letter-da0cc74a0e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 379.5625,
+            "x": 4777.2265625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65778ad8ee63ff0cda2697db",
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 693.4140625
+          },
+          {
+            "id": "6577919e3123e24bc42e920e",
+            "x": 0,
+            "y": 693.4140625,
+            "width": 1024,
+            "height": 660
+          },
+          {
+            "id": "65779407bc729a597d25da04",
+            "x": 0,
+            "y": 1353.4140625,
+            "width": 1024,
+            "height": 522.5546875
+          },
+          {
+            "id": "65779b34e22530211a60f94d",
+            "x": 0,
+            "y": 1875.96875,
+            "width": 1024,
+            "height": 131.734375
+          },
+          {
+            "id": "6577996f020aba3da6f5ce5f",
+            "x": 0,
+            "y": 2007.703125,
+            "width": 1024,
+            "height": 500
+          },
+          {
+            "id": "65779de4e9524c263364eeb9",
+            "x": 0,
+            "y": 2507.703125,
+            "width": 1024,
+            "height": 972.2265625
+          },
+          {
+            "id": "657791222b342670516cd830",
+            "x": 0,
+            "y": 3479.9296875,
+            "width": 1024,
+            "height": 660
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 4139.9296875,
+            "width": 1024,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 1
+      }
+    },
+    {
+      "width": 768,
+      "reference": {
+        "width": 768,
+        "height": 4487,
+        "header": 151.09375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 574,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702334481372-GSVTAIOLX0CZNNNH08WZ/image-asset.jpeg?format=2500w",
+            "loaded": true,
+            "visible": true,
+            "width": 324.921875,
+            "height": 340.390625,
+            "x": 420.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/710b1247-9fae-4c15-9d8e-58d0d88aeaf1/javier-trueba-iQPr1XkF5F0-unsplash.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 248.21875,
+            "height": 140.6171875,
+            "x": 64.40625,
+            "objectFit": "cover",
+            "objectPosition": "50.5344% 19.2012%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/08195fcd-19a4-47a7-aee2-ba3fe95a9dbb/jason-goodman-Oalh2MojUuk-unsplash.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 248.21875,
+            "height": 140.6171875,
+            "x": 455.3671875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/3b5c2012-eb3e-41bb-816f-28bf5d0cb68a/MIT+Admission+Letter+No+Name+with+watermark.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 258,
+            "height": 355,
+            "x": 571.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0c676bd7-85de-4f55-8908-b65d589ede16/Offer-UG-UPenn-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 829.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/a74a4b05-910b-4f33-9aeb-d2a5e17d2e8e/Offer-UG-Cornell-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 1103.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/96a173b7-d63c-426e-a1fe-7aa496166fc6/Offer-UG-UCB-Jennifer.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9975.9609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/27eedce9-076a-4c23-b60c-36d8033a5974/Offer-UG-UCLA-Tiana+Wang.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9975.9609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/2d63e0dd-8cfc-43e1-a1cd-5721ad342732/Offer-UG-Rice-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9975.9609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa3a1402-8619-41fb-9277-ac0b8e99ca85/dartmouth-watermarked+2.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9975.9609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/201bd658-086f-4c55-b482-d645404ecc20/Offer-UG-Vanderbilt.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 272,
+            "height": 355,
+            "x": -9975.9609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7c43e474-b038-472f-8847-210c9f580145/Offer-Transfer-UMich-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9975.9609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/128a2dad-449d-45da-9695-753d83142274/%E5%8D%97%E5%8A%A0%E5%A4%A7%E5%BD%95%E5%8F%96_13.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 251,
+            "height": 355,
+            "x": -9975.9609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/866c5252-ee30-48bf-8991-8271543b096e/Emory-2.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9975.9609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b41cba47-1b14-4fd0-b479-b17afef3a993/CMUOffer_8.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9975.9609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa5926d3-a135-4e9a-95af-ec2def952132/Middlebury+offer_7.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9975.9609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/8eb1a596-f196-4182-bfed-e262fe2d8e80/Offer-Transfer-UNC-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 251,
+            "height": 355,
+            "x": -9975.9609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/6d614efd-64b6-4a1f-8206-ed0b26706430/NYU+Offer+Letter_3.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9975.9609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/434f3645-c475-4a3a-a4fe-90b8f7fb5d22/Barnard+Offer.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -229.9609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/05b8178b-44e5-4139-9464-3ee664f9b263/Offer-UG-Northwestern.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 253,
+            "height": 355,
+            "x": 44.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7379f7d0-7163-4963-9c52-48d172853e5d/Yale+Acceptance+Letter.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 297.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/3b5c2012-eb3e-41bb-816f-28bf5d0cb68a/MIT+Admission+Letter+No+Name+with+watermark.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0c676bd7-85de-4f55-8908-b65d589ede16/Offer-UG-UPenn-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/a74a4b05-910b-4f33-9aeb-d2a5e17d2e8e/Offer-UG-Cornell-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/96a173b7-d63c-426e-a1fe-7aa496166fc6/Offer-UG-UCB-Jennifer.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/27eedce9-076a-4c23-b60c-36d8033a5974/Offer-UG-UCLA-Tiana+Wang.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/2d63e0dd-8cfc-43e1-a1cd-5721ad342732/Offer-UG-Rice-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa3a1402-8619-41fb-9277-ac0b8e99ca85/dartmouth-watermarked+2.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/201bd658-086f-4c55-b482-d645404ecc20/Offer-UG-Vanderbilt.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7c43e474-b038-472f-8847-210c9f580145/Offer-Transfer-UMich-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/128a2dad-449d-45da-9695-753d83142274/%E5%8D%97%E5%8A%A0%E5%A4%A7%E5%BD%95%E5%8F%96_13.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/866c5252-ee30-48bf-8991-8271543b096e/Emory-2.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b41cba47-1b14-4fd0-b479-b17afef3a993/CMUOffer_8.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa5926d3-a135-4e9a-95af-ec2def952132/Middlebury+offer_7.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/8eb1a596-f196-4182-bfed-e262fe2d8e80/Offer-Transfer-UNC-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/6d614efd-64b6-4a1f-8206-ed0b26706430/NYU+Offer+Letter_3.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/434f3645-c475-4a3a-a4fe-90b8f7fb5d22/Barnard+Offer.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/05b8178b-44e5-4139-9464-3ee664f9b263/Offer-UG-Northwestern.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7379f7d0-7163-4963-9c52-48d172853e5d/Yale+Acceptance+Letter.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65778ad8ee63ff0cda2697db",
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 586.9921875
+          },
+          {
+            "id": "6577919e3123e24bc42e920e",
+            "x": 0,
+            "y": 586.9921875,
+            "width": 768,
+            "height": 660
+          },
+          {
+            "id": "65779407bc729a597d25da04",
+            "x": 0,
+            "y": 1246.9921875,
+            "width": 768,
+            "height": 451.609375
+          },
+          {
+            "id": "65779b34e22530211a60f94d",
+            "x": 0,
+            "y": 1698.6015625,
+            "width": 768,
+            "height": 112.09375
+          },
+          {
+            "id": "6577996f020aba3da6f5ce5f",
+            "x": 0,
+            "y": 1810.6953125,
+            "width": 768,
+            "height": 500
+          },
+          {
+            "id": "65779de4e9524c263364eeb9",
+            "x": 0,
+            "y": 2310.6953125,
+            "width": 768,
+            "height": 1186.875
+          },
+          {
+            "id": "657791222b342670516cd830",
+            "x": 0,
+            "y": 3497.5703125,
+            "width": 768,
+            "height": 660
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 4157.5703125,
+            "width": 768,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 1
+      },
+      "local": {
+        "width": 768,
+        "height": 4566,
+        "header": 151.09375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": true,
+            "width": 134.890625,
+            "height": 75,
+            "x": 589.9140625,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4746b4db68.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 324.921875,
+            "height": 396.71875,
+            "x": 420.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/javier-trueba-iQPr1XkF5F0-unsplash-a0c129182b.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 248.21875,
+            "height": 140.6171875,
+            "x": 64.40625,
+            "objectFit": "cover",
+            "objectPosition": "50.5344% 19.2012%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/jason-goodman-Oalh2MojUuk-unsplash-14a69017fe.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 248.21875,
+            "height": 140.6171875,
+            "x": 455.3671875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/MIT-Admission-Letter-No-Name-with-watermark-24cb0fcf5e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 258.046875,
+            "height": 394.921875,
+            "x": 23.0390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UPenn-Tiana-f49ebc3cf8.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.2421875,
+            "height": 394.921875,
+            "x": 291.0859375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Cornell-Tiana-3d88d45307.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 394.921875,
+            "x": 575.328125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UCB-Jennifer-6a6c103408.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 394.921875,
+            "x": 859.640625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UCLA-Tiana-Wang-ddeeecc21f.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 394.921875,
+            "x": 1143.953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Rice-Tiana-da14971adf.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 394.921875,
+            "x": 1428.265625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/dartmouth-watermarked-2-b0dfb7798a.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 394.921875,
+            "x": 1712.578125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Vanderbilt-36d89cb530.png",
+            "loaded": true,
+            "visible": true,
+            "width": 271.90625,
+            "height": 394.921875,
+            "x": 1996.890625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-Transfer-UMich-Mike-c2fe48cbb4.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 394.921875,
+            "x": 2278.796875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/_13-4b4dd0d3ee.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 250.8828125,
+            "height": 394.921875,
+            "x": 2563.109375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Emory-2-c01ce05707.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 394.921875,
+            "x": 2823.9921875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/CMUOffer_8-dcb5eb7c6e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 394.921875,
+            "x": 3108.3046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Middlebury-offer_7-d1d1120e7d.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 394.921875,
+            "x": 3392.6171875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-Transfer-UNC-Mike-313a6d0afc.png",
+            "loaded": true,
+            "visible": true,
+            "width": 251.03125,
+            "height": 394.921875,
+            "x": 3676.9296875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/NYU-Offer-Letter_3-90bddb6646.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 394.921875,
+            "x": 3937.9609375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Barnard-Offer-7d8eb80de1.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 394.921875,
+            "x": 4222.2734375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Northwestern-3fcec5e4a9.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 252.9609375,
+            "height": 394.921875,
+            "x": 4506.5859375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Yale-Acceptance-Letter-da0cc74a0e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 394.921875,
+            "x": 4769.546875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65778ad8ee63ff0cda2697db",
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 643.3203125
+          },
+          {
+            "id": "6577919e3123e24bc42e920e",
+            "x": 0,
+            "y": 643.3203125,
+            "width": 768,
+            "height": 660
+          },
+          {
+            "id": "65779407bc729a597d25da04",
+            "x": 0,
+            "y": 1303.3203125,
+            "width": 768,
+            "height": 451.609375
+          },
+          {
+            "id": "65779b34e22530211a60f94d",
+            "x": 0,
+            "y": 1754.9296875,
+            "width": 768,
+            "height": 112.09375
+          },
+          {
+            "id": "6577996f020aba3da6f5ce5f",
+            "x": 0,
+            "y": 1867.0234375,
+            "width": 768,
+            "height": 500
+          },
+          {
+            "id": "65779de4e9524c263364eeb9",
+            "x": 0,
+            "y": 2367.0234375,
+            "width": 768,
+            "height": 1209.078125
+          },
+          {
+            "id": "657791222b342670516cd830",
+            "x": 0,
+            "y": 3576.1015625,
+            "width": 768,
+            "height": 660
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 4236.1015625,
+            "width": 768,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 1
+      }
+    },
+    {
+      "width": 390,
+      "reference": {
+        "width": 390,
+        "height": 6254,
+        "header": 151.59375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 196,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702334481372-GSVTAIOLX0CZNNNH08WZ/image-asset.jpeg?format=2500w",
+            "loaded": true,
+            "visible": true,
+            "width": 343.203125,
+            "height": 234,
+            "x": 23.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/710b1247-9fae-4c15-9d8e-58d0d88aeaf1/javier-trueba-iQPr1XkF5F0-unsplash.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274.953125,
+            "height": 155.65625,
+            "x": 57.5234375,
+            "objectFit": "cover",
+            "objectPosition": "50.5344% 19.2012%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/08195fcd-19a4-47a7-aee2-ba3fe95a9dbb/jason-goodman-Oalh2MojUuk-unsplash.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274.953125,
+            "height": 155.65625,
+            "x": 57.5234375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/3b5c2012-eb3e-41bb-816f-28bf5d0cb68a/MIT+Admission+Letter+No+Name+with+watermark.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 258,
+            "height": 355,
+            "x": 548,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0c676bd7-85de-4f55-8908-b65d589ede16/Offer-UG-UPenn-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 806,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/a74a4b05-910b-4f33-9aeb-d2a5e17d2e8e/Offer-UG-Cornell-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 1080,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/96a173b7-d63c-426e-a1fe-7aa496166fc6/Offer-UG-UCB-Jennifer.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/27eedce9-076a-4c23-b60c-36d8033a5974/Offer-UG-UCLA-Tiana+Wang.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/2d63e0dd-8cfc-43e1-a1cd-5721ad342732/Offer-UG-Rice-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa3a1402-8619-41fb-9277-ac0b8e99ca85/dartmouth-watermarked+2.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/201bd658-086f-4c55-b482-d645404ecc20/Offer-UG-Vanderbilt.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 272,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7c43e474-b038-472f-8847-210c9f580145/Offer-Transfer-UMich-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/128a2dad-449d-45da-9695-753d83142274/%E5%8D%97%E5%8A%A0%E5%A4%A7%E5%BD%95%E5%8F%96_13.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 251,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/866c5252-ee30-48bf-8991-8271543b096e/Emory-2.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b41cba47-1b14-4fd0-b479-b17afef3a993/CMUOffer_8.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa5926d3-a135-4e9a-95af-ec2def952132/Middlebury+offer_7.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/8eb1a596-f196-4182-bfed-e262fe2d8e80/Offer-Transfer-UNC-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 251,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/6d614efd-64b6-4a1f-8206-ed0b26706430/NYU+Offer+Letter_3.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/434f3645-c475-4a3a-a4fe-90b8f7fb5d22/Barnard+Offer.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -253,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/05b8178b-44e5-4139-9464-3ee664f9b263/Offer-UG-Northwestern.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 253,
+            "height": 355,
+            "x": 21,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7379f7d0-7163-4963-9c52-48d172853e5d/Yale+Acceptance+Letter.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 274,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/3b5c2012-eb3e-41bb-816f-28bf5d0cb68a/MIT+Admission+Letter+No+Name+with+watermark.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0c676bd7-85de-4f55-8908-b65d589ede16/Offer-UG-UPenn-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/a74a4b05-910b-4f33-9aeb-d2a5e17d2e8e/Offer-UG-Cornell-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/96a173b7-d63c-426e-a1fe-7aa496166fc6/Offer-UG-UCB-Jennifer.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/27eedce9-076a-4c23-b60c-36d8033a5974/Offer-UG-UCLA-Tiana+Wang.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/2d63e0dd-8cfc-43e1-a1cd-5721ad342732/Offer-UG-Rice-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa3a1402-8619-41fb-9277-ac0b8e99ca85/dartmouth-watermarked+2.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/201bd658-086f-4c55-b482-d645404ecc20/Offer-UG-Vanderbilt.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7c43e474-b038-472f-8847-210c9f580145/Offer-Transfer-UMich-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/128a2dad-449d-45da-9695-753d83142274/%E5%8D%97%E5%8A%A0%E5%A4%A7%E5%BD%95%E5%8F%96_13.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/866c5252-ee30-48bf-8991-8271543b096e/Emory-2.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b41cba47-1b14-4fd0-b479-b17afef3a993/CMUOffer_8.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa5926d3-a135-4e9a-95af-ec2def952132/Middlebury+offer_7.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/8eb1a596-f196-4182-bfed-e262fe2d8e80/Offer-Transfer-UNC-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/6d614efd-64b6-4a1f-8206-ed0b26706430/NYU+Offer+Letter_3.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/434f3645-c475-4a3a-a4fe-90b8f7fb5d22/Barnard+Offer.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/05b8178b-44e5-4139-9464-3ee664f9b263/Offer-UG-Northwestern.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7379f7d0-7163-4963-9c52-48d172853e5d/Yale+Acceptance+Letter.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65778ad8ee63ff0cda2697db",
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 769.0859375
+          },
+          {
+            "id": "6577919e3123e24bc42e920e",
+            "x": 0,
+            "y": 769.0859375,
+            "width": 390,
+            "height": 660
+          },
+          {
+            "id": "65779407bc729a597d25da04",
+            "x": 0,
+            "y": 1429.0859375,
+            "width": 390,
+            "height": 796.203125
+          },
+          {
+            "id": "65779b34e22530211a60f94d",
+            "x": 0,
+            "y": 2225.2890625,
+            "width": 390,
+            "height": 164
+          },
+          {
+            "id": "6577996f020aba3da6f5ce5f",
+            "x": 0,
+            "y": 2389.2890625,
+            "width": 390,
+            "height": 500
+          },
+          {
+            "id": "65779de4e9524c263364eeb9",
+            "x": 0,
+            "y": 2889.2890625,
+            "width": 390,
+            "height": 2375.265625
+          },
+          {
+            "id": "657791222b342670516cd830",
+            "x": 0,
+            "y": 5264.5546875,
+            "width": 390,
+            "height": 660
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5924.5546875,
+            "width": 390,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 1
+      },
+      "local": {
+        "width": 390,
+        "height": 6290,
+        "header": 151.59375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": true,
+            "width": 134.890625,
+            "height": 75,
+            "x": 211.9140625,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4746b4db68.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 343.203125,
+            "height": 234,
+            "x": 23.3984375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/javier-trueba-iQPr1XkF5F0-unsplash-a0c129182b.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.953125,
+            "height": 155.65625,
+            "x": 57.5234375,
+            "objectFit": "cover",
+            "objectPosition": "50.5344% 19.2012%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/jason-goodman-Oalh2MojUuk-unsplash-14a69017fe.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.953125,
+            "height": 155.65625,
+            "x": 57.5234375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/MIT-Admission-Letter-No-Name-with-watermark-24cb0fcf5e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 258.046875,
+            "height": 441,
+            "x": 0,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UPenn-Tiana-f49ebc3cf8.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.2421875,
+            "height": 441,
+            "x": 268.046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Cornell-Tiana-3d88d45307.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 552.2890625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UCB-Jennifer-6a6c103408.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 836.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UCLA-Tiana-Wang-ddeeecc21f.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 1120.9140625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Rice-Tiana-da14971adf.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 1405.2265625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/dartmouth-watermarked-2-b0dfb7798a.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 1689.5390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Vanderbilt-36d89cb530.png",
+            "loaded": true,
+            "visible": true,
+            "width": 271.90625,
+            "height": 441,
+            "x": 1973.8515625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-Transfer-UMich-Mike-c2fe48cbb4.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 2255.7578125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/_13-4b4dd0d3ee.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 250.8828125,
+            "height": 441,
+            "x": 2540.0703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Emory-2-c01ce05707.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 2800.953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/CMUOffer_8-dcb5eb7c6e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 3085.265625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Middlebury-offer_7-d1d1120e7d.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 3369.578125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-Transfer-UNC-Mike-313a6d0afc.png",
+            "loaded": true,
+            "visible": true,
+            "width": 251.03125,
+            "height": 441,
+            "x": 3653.890625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/NYU-Offer-Letter_3-90bddb6646.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 3914.921875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Barnard-Offer-7d8eb80de1.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 4199.234375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Northwestern-3fcec5e4a9.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 252.9609375,
+            "height": 441,
+            "x": 4483.546875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Yale-Acceptance-Letter-da0cc74a0e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 4746.5078125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65778ad8ee63ff0cda2697db",
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 789.9296875
+          },
+          {
+            "id": "6577919e3123e24bc42e920e",
+            "x": 0,
+            "y": 789.9296875,
+            "width": 390,
+            "height": 660
+          },
+          {
+            "id": "65779407bc729a597d25da04",
+            "x": 0,
+            "y": 1449.9296875,
+            "width": 390,
+            "height": 796.203125
+          },
+          {
+            "id": "65779b34e22530211a60f94d",
+            "x": 0,
+            "y": 2246.1328125,
+            "width": 390,
+            "height": 164
+          },
+          {
+            "id": "6577996f020aba3da6f5ce5f",
+            "x": 0,
+            "y": 2410.1328125,
+            "width": 390,
+            "height": 500
+          },
+          {
+            "id": "65779de4e9524c263364eeb9",
+            "x": 0,
+            "y": 2910.1328125,
+            "width": 390,
+            "height": 2390.109375
+          },
+          {
+            "id": "657791222b342670516cd830",
+            "x": 0,
+            "y": 5300.2421875,
+            "width": 390,
+            "height": 660
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5960.2421875,
+            "width": 390,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 1
+      }
+    },
+    {
+      "width": 375,
+      "reference": {
+        "width": 375,
+        "height": 6264,
+        "header": 151.59375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          }
+        ],
+        "errors": [
+          "resource error",
+          "resource error"
+        ],
+        "images": [
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://images.squarespace-cdn.com/content/v1/5f41c21b1ab9f805fb6b7325/1598147357283-Q6MPBVSYJYQQHI0TV0NB/Aucta_Logo-01.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 150.8046875,
+            "height": 75,
+            "x": 181,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/1702334481372-GSVTAIOLX0CZNNNH08WZ/image-asset.jpeg?format=2500w",
+            "loaded": true,
+            "visible": true,
+            "width": 330,
+            "height": 234,
+            "x": 22.5,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/710b1247-9fae-4c15-9d8e-58d0d88aeaf1/javier-trueba-iQPr1XkF5F0-unsplash.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 264.375,
+            "height": 149.7109375,
+            "x": 55.3125,
+            "objectFit": "cover",
+            "objectPosition": "50.5344% 19.2012%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/08195fcd-19a4-47a7-aee2-ba3fe95a9dbb/jason-goodman-Oalh2MojUuk-unsplash.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 264.375,
+            "height": 149.7109375,
+            "x": 55.3125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/3b5c2012-eb3e-41bb-816f-28bf5d0cb68a/MIT+Admission+Letter+No+Name+with+watermark.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 258,
+            "height": 355,
+            "x": 548,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0c676bd7-85de-4f55-8908-b65d589ede16/Offer-UG-UPenn-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 806,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/a74a4b05-910b-4f33-9aeb-d2a5e17d2e8e/Offer-UG-Cornell-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 1080,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/96a173b7-d63c-426e-a1fe-7aa496166fc6/Offer-UG-UCB-Jennifer.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/27eedce9-076a-4c23-b60c-36d8033a5974/Offer-UG-UCLA-Tiana+Wang.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/2d63e0dd-8cfc-43e1-a1cd-5721ad342732/Offer-UG-Rice-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa3a1402-8619-41fb-9277-ac0b8e99ca85/dartmouth-watermarked+2.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/201bd658-086f-4c55-b482-d645404ecc20/Offer-UG-Vanderbilt.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 272,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7c43e474-b038-472f-8847-210c9f580145/Offer-Transfer-UMich-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/128a2dad-449d-45da-9695-753d83142274/%E5%8D%97%E5%8A%A0%E5%A4%A7%E5%BD%95%E5%8F%96_13.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 251,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/866c5252-ee30-48bf-8991-8271543b096e/Emory-2.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b41cba47-1b14-4fd0-b479-b17afef3a993/CMUOffer_8.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa5926d3-a135-4e9a-95af-ec2def952132/Middlebury+offer_7.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/8eb1a596-f196-4182-bfed-e262fe2d8e80/Offer-Transfer-UNC-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 251,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/6d614efd-64b6-4a1f-8206-ed0b26706430/NYU+Offer+Letter_3.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -9999,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/434f3645-c475-4a3a-a4fe-90b8f7fb5d22/Barnard+Offer.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": -253,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/05b8178b-44e5-4139-9464-3ee664f9b263/Offer-UG-Northwestern.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 253,
+            "height": 355,
+            "x": 21,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7379f7d0-7163-4963-9c52-48d172853e5d/Yale+Acceptance+Letter.jpg?format=1500w",
+            "loaded": true,
+            "visible": true,
+            "width": 274,
+            "height": 355,
+            "x": 274,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/3b5c2012-eb3e-41bb-816f-28bf5d0cb68a/MIT+Admission+Letter+No+Name+with+watermark.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/0c676bd7-85de-4f55-8908-b65d589ede16/Offer-UG-UPenn-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/a74a4b05-910b-4f33-9aeb-d2a5e17d2e8e/Offer-UG-Cornell-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/96a173b7-d63c-426e-a1fe-7aa496166fc6/Offer-UG-UCB-Jennifer.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/27eedce9-076a-4c23-b60c-36d8033a5974/Offer-UG-UCLA-Tiana+Wang.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/2d63e0dd-8cfc-43e1-a1cd-5721ad342732/Offer-UG-Rice-Tiana.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa3a1402-8619-41fb-9277-ac0b8e99ca85/dartmouth-watermarked+2.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/201bd658-086f-4c55-b482-d645404ecc20/Offer-UG-Vanderbilt.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7c43e474-b038-472f-8847-210c9f580145/Offer-Transfer-UMich-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/128a2dad-449d-45da-9695-753d83142274/%E5%8D%97%E5%8A%A0%E5%A4%A7%E5%BD%95%E5%8F%96_13.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/866c5252-ee30-48bf-8991-8271543b096e/Emory-2.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/b41cba47-1b14-4fd0-b479-b17afef3a993/CMUOffer_8.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/aa5926d3-a135-4e9a-95af-ec2def952132/Middlebury+offer_7.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/8eb1a596-f196-4182-bfed-e262fe2d8e80/Offer-Transfer-UNC-Mike.png?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/6d614efd-64b6-4a1f-8206-ed0b26706430/NYU+Offer+Letter_3.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/434f3645-c475-4a3a-a4fe-90b8f7fb5d22/Barnard+Offer.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/05b8178b-44e5-4139-9464-3ee664f9b263/Offer-UG-Northwestern.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "https://images.squarespace-cdn.com/content/v1/60d69c155de30045e5e8df32/7379f7d0-7163-4963-9c52-48d172853e5d/Yale+Acceptance+Letter.jpg?format=1500w",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "contain",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65778ad8ee63ff0cda2697db",
+            "x": 0,
+            "y": 0,
+            "width": 375,
+            "height": 769.0859375
+          },
+          {
+            "id": "6577919e3123e24bc42e920e",
+            "x": 0,
+            "y": 769.0859375,
+            "width": 375,
+            "height": 660
+          },
+          {
+            "id": "65779407bc729a597d25da04",
+            "x": 0,
+            "y": 1429.0859375,
+            "width": 375,
+            "height": 782.03125
+          },
+          {
+            "id": "65779b34e22530211a60f94d",
+            "x": 0,
+            "y": 2211.1171875,
+            "width": 375,
+            "height": 164
+          },
+          {
+            "id": "6577996f020aba3da6f5ce5f",
+            "x": 0,
+            "y": 2375.1171875,
+            "width": 375,
+            "height": 500
+          },
+          {
+            "id": "65779de4e9524c263364eeb9",
+            "x": 0,
+            "y": 2875.1171875,
+            "width": 375,
+            "height": 2399.109375
+          },
+          {
+            "id": "657791222b342670516cd830",
+            "x": 0,
+            "y": 5274.2265625,
+            "width": 375,
+            "height": 660
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5934.2265625,
+            "width": 375,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 1
+      },
+      "local": {
+        "width": 375,
+        "height": 6322,
+        "header": 151.59375,
+        "fonts": [
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "status": "unloaded"
+          },
+          {
+            "family": "Aucta Heading",
+            "status": "loaded"
+          }
+        ],
+        "errors": [],
+        "images": [
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": false,
+            "width": 0,
+            "height": 0,
+            "x": 0,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/letterhead-mod-f8080fae01.png",
+            "loaded": true,
+            "visible": true,
+            "width": 134.890625,
+            "height": 75,
+            "x": 196.9140625,
+            "objectFit": "fill",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/image-asset-4746b4db68.jpeg",
+            "loaded": true,
+            "visible": true,
+            "width": 330,
+            "height": 234,
+            "x": 22.5,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/javier-trueba-iQPr1XkF5F0-unsplash-a0c129182b.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 264.375,
+            "height": 149.7109375,
+            "x": 55.3125,
+            "objectFit": "cover",
+            "objectPosition": "50.5344% 19.2012%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/jason-goodman-Oalh2MojUuk-unsplash-14a69017fe.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 264.375,
+            "height": 149.7109375,
+            "x": 55.3125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/MIT-Admission-Letter-No-Name-with-watermark-24cb0fcf5e.png",
+            "loaded": true,
+            "visible": true,
+            "width": 258.046875,
+            "height": 441,
+            "x": 0,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UPenn-Tiana-f49ebc3cf8.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.2421875,
+            "height": 441,
+            "x": 268.046875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Cornell-Tiana-3d88d45307.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 552.2890625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UCB-Jennifer-6a6c103408.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 836.6015625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-UCLA-Tiana-Wang-ddeeecc21f.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 1120.9140625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Rice-Tiana-da14971adf.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 1405.2265625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/dartmouth-watermarked-2-b0dfb7798a.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 1689.5390625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Vanderbilt-36d89cb530.png",
+            "loaded": true,
+            "visible": true,
+            "width": 271.90625,
+            "height": 441,
+            "x": 1973.8515625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-Transfer-UMich-Mike-c2fe48cbb4.png",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 2255.7578125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/_13-4b4dd0d3ee.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 250.8828125,
+            "height": 441,
+            "x": 2540.0703125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Emory-2-c01ce05707.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 2800.953125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/CMUOffer_8-dcb5eb7c6e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 3085.265625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Middlebury-offer_7-d1d1120e7d.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 3369.578125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-Transfer-UNC-Mike-313a6d0afc.png",
+            "loaded": true,
+            "visible": true,
+            "width": 251.03125,
+            "height": 441,
+            "x": 3653.890625,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/NYU-Offer-Letter_3-90bddb6646.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 3914.921875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Barnard-Offer-7d8eb80de1.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 4199.234375,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Offer-UG-Northwestern-3fcec5e4a9.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 252.9609375,
+            "height": 441,
+            "x": 4483.546875,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          },
+          {
+            "src": "http://127.0.0.1:8787/local/assets/images/Yale-Acceptance-Letter-da0cc74a0e.jpg",
+            "loaded": true,
+            "visible": true,
+            "width": 274.3125,
+            "height": 441,
+            "x": 4746.5078125,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%"
+          }
+        ],
+        "sections": [
+          {
+            "id": "65778ad8ee63ff0cda2697db",
+            "x": 0,
+            "y": 0,
+            "width": 375,
+            "height": 789.9296875
+          },
+          {
+            "id": "6577919e3123e24bc42e920e",
+            "x": 0,
+            "y": 789.9296875,
+            "width": 375,
+            "height": 660
+          },
+          {
+            "id": "65779407bc729a597d25da04",
+            "x": 0,
+            "y": 1449.9296875,
+            "width": 375,
+            "height": 782.03125
+          },
+          {
+            "id": "65779b34e22530211a60f94d",
+            "x": 0,
+            "y": 2231.9609375,
+            "width": 375,
+            "height": 164
+          },
+          {
+            "id": "6577996f020aba3da6f5ce5f",
+            "x": 0,
+            "y": 2395.9609375,
+            "width": 375,
+            "height": 500
+          },
+          {
+            "id": "65779de4e9524c263364eeb9",
+            "x": 0,
+            "y": 2895.9609375,
+            "width": 375,
+            "height": 2436.375
+          },
+          {
+            "id": "657791222b342670516cd830",
+            "x": 0,
+            "y": 5332.3359375,
+            "width": 375,
+            "height": 660
+          },
+          {
+            "id": "60d69c445de30045e5e8e4e0",
+            "x": 0,
+            "y": 5992.3359375,
+            "width": 375,
+            "height": 330
+          }
+        ],
+        "accordions": 0,
+        "galleries": 1
+      }
+    }
+  ],
+  "note": "Rendered DOM geometry from a locally served reference HTML snapshot with original remote scripts/assets; Adobe fonts may be unavailable on the comparison origin. This is not a live-origin screenshot comparison."
+}

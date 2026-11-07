@@ -1,0 +1,94 @@
+[
+  {
+    "path": "/",
+    "status": 200
+  },
+  {
+    "path": "/about-us",
+    "status": 200
+  },
+  {
+    "path": "/about/founders-letter",
+    "status": 200
+  },
+  {
+    "path": "/about/our-journey",
+    "status": 200
+  },
+  {
+    "path": "/admissions-result",
+    "status": 200
+  },
+  {
+    "path": "/admissions-result/graduate",
+    "status": 200
+  },
+  {
+    "path": "/admissions-result/undergraduate",
+    "status": 200
+  },
+  {
+    "path": "/contact",
+    "status": 200
+  },
+  {
+    "path": "/graduate-1",
+    "status": 200
+  },
+  {
+    "path": "/graduate-services/faqs",
+    "status": 200
+  },
+  {
+    "path": "/graduate-services/overview",
+    "status": 200
+  },
+  {
+    "path": "/our-team",
+    "status": 200
+  },
+  {
+    "path": "/our-team/chinese-consultants",
+    "status": 200
+  },
+  {
+    "path": "/our-team/management-team",
+    "status": 200
+  },
+  {
+    "path": "/our-team/us-consultants",
+    "status": 200
+  },
+  {
+    "path": "/services",
+    "status": 200
+  },
+  {
+    "path": "/student-testimonials/graduate",
+    "status": 200
+  },
+  {
+    "path": "/student-testimonials/undergraduate",
+    "status": 200
+  },
+  {
+    "path": "/student_testimonials",
+    "status": 200
+  },
+  {
+    "path": "/undergraduate-services/faqs",
+    "status": 200
+  },
+  {
+    "path": "/undergraduate-services/overview",
+    "status": 200
+  },
+  {
+    "path": "/home",
+    "status": 200
+  },
+  {
+    "path": "/why-choose-us",
+    "status": 200
+  }
+]

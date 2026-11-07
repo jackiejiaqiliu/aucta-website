@@ -1,0 +1,90 @@
+{
+  "name": "mobile-loading-revision",
+  "results": [
+    {
+      "width": 320,
+      "logo": {
+        "width": 150.7890625,
+        "height": 74.9921875,
+        "ratio": 2.0107302844046253,
+        "naturalRatio": 2.0108108108108107,
+        "center": 159.99609375
+      },
+      "menu": {
+        "firstX": 9.59375,
+        "firstY": 158.3828125,
+        "headerBottom": 130.3828125,
+        "align": "left"
+      },
+      "errors": []
+    },
+    {
+      "width": 375,
+      "logo": {
+        "width": 150.7890625,
+        "height": 74.9921875,
+        "ratio": 2.0107302844046253,
+        "naturalRatio": 2.0108108108108107,
+        "center": 187.49609375
+      },
+      "menu": {
+        "firstX": 11.25,
+        "firstY": 164.9921875,
+        "headerBottom": 136.9921875,
+        "align": "left"
+      },
+      "errors": []
+    },
+    {
+      "width": 390,
+      "logo": {
+        "width": 150.7890625,
+        "height": 74.9921875,
+        "ratio": 2.0107302844046253,
+        "naturalRatio": 2.0108108108108107,
+        "center": 194.99609375
+      },
+      "menu": {
+        "firstX": 11.6953125,
+        "firstY": 166.7890625,
+        "headerBottom": 138.7890625,
+        "align": "left"
+      },
+      "errors": []
+    },
+    {
+      "width": 430,
+      "logo": {
+        "width": 150.7890625,
+        "height": 74.9921875,
+        "ratio": 2.0107302844046253,
+        "naturalRatio": 2.0108108108108107,
+        "center": 214.99609375
+      },
+      "menu": {
+        "firstX": 12.8984375,
+        "firstY": 171.5859375,
+        "headerBottom": 143.5859375,
+        "align": "left"
+      },
+      "errors": []
+    },
+    {
+      "width": 768,
+      "logo": {
+        "width": 150.7890625,
+        "height": 74.9921875,
+        "ratio": 2.0107302844046253,
+        "naturalRatio": 2.0108108108108107,
+        "center": 383.99609375
+      },
+      "menu": {
+        "firstX": 23.0390625,
+        "firstY": 211.6484375,
+        "headerBottom": 183.6484375,
+        "align": "left"
+      },
+      "errors": []
+    }
+  ]
+}

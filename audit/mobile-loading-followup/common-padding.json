@@ -1,0 +1,105 @@
+{
+  "name": "mobile-loading-revision",
+  "results": [
+    {
+      "width": 320,
+      "logo": {
+        "width": 150.7890625,
+        "height": 74.9921875,
+        "ratio": 2.0107302844046253,
+        "naturalRatio": 2.0108108108108107,
+        "center": 159.99609375
+      },
+      "menu": {
+        "firstX": 19.1953125,
+        "firstY": 158.3828125,
+        "headerBottom": 130.3828125,
+        "align": "left"
+      },
+      "closeX": 19.1953125,
+      "contactX": 38.390625,
+      "backX": 19.1953125,
+      "errors": []
+    },
+    {
+      "width": 375,
+      "logo": {
+        "width": 150.7890625,
+        "height": 74.9921875,
+        "ratio": 2.0107302844046253,
+        "naturalRatio": 2.0108108108108107,
+        "center": 187.49609375
+      },
+      "menu": {
+        "firstX": 22.5,
+        "firstY": 164.9921875,
+        "headerBottom": 136.9921875,
+        "align": "left"
+      },
+      "closeX": 22.5,
+      "contactX": 45,
+      "backX": 22.5,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "logo": {
+        "width": 150.7890625,
+        "height": 74.9921875,
+        "ratio": 2.0107302844046253,
+        "naturalRatio": 2.0108108108108107,
+        "center": 194.99609375
+      },
+      "menu": {
+        "firstX": 23.3984375,
+        "firstY": 166.7890625,
+        "headerBottom": 138.7890625,
+        "align": "left"
+      },
+      "closeX": 23.3984375,
+      "contactX": 46.796875,
+      "backX": 23.3984375,
+      "errors": []
+    },
+    {
+      "width": 430,
+      "logo": {
+        "width": 150.7890625,
+        "height": 74.9921875,
+        "ratio": 2.0107302844046253,
+        "naturalRatio": 2.0108108108108107,
+        "center": 214.99609375
+      },
+      "menu": {
+        "firstX": 25.796875,
+        "firstY": 171.5859375,
+        "headerBottom": 143.5859375,
+        "align": "left"
+      },
+      "closeX": 25.796875,
+      "contactX": 51.59375,
+      "backX": 25.796875,
+      "errors": []
+    },
+    {
+      "width": 768,
+      "logo": {
+        "width": 150.7890625,
+        "height": 74.9921875,
+        "ratio": 2.0107302844046253,
+        "naturalRatio": 2.0108108108108107,
+        "center": 383.99609375
+      },
+      "menu": {
+        "firstX": 46.078125,
+        "firstY": 211.6484375,
+        "headerBottom": 183.6484375,
+        "align": "left"
+      },
+      "closeX": 46.078125,
+      "contactX": 92.15625,
+      "backX": 46.078125,
+      "errors": []
+    }
+  ]
+}

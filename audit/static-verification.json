@@ -1,0 +1,16 @@
+{
+  "stats": {
+    "pages": 23,
+    "resource_references": 433,
+    "responsive_candidates": 1538,
+    "local_link_references": 1504,
+    "accordions": 29
+  },
+  "errors": [],
+  "external_navigation_links": [
+    "http://auctaedu.org",
+    "https://www.linkedin.com/company/aucta-international-education/about/"
+  ],
+  "browser_visual_verification": "blocked",
+  "tested_viewports": []
+}

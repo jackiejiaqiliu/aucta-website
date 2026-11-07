@@ -1,0 +1,113 @@
+{
+  "name": "reel-verification",
+  "results": [
+    {
+      "route": "/",
+      "width": 1440,
+      "initial": 0,
+      "centeredError": 0.1953125,
+      "next": 1,
+      "previous": 0,
+      "errors": []
+    },
+    {
+      "route": "/",
+      "width": 1280,
+      "initial": 0,
+      "centeredError": 0.1015625,
+      "next": 1,
+      "previous": 0,
+      "errors": []
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "initial": 0,
+      "centeredError": 0.21875,
+      "next": 1,
+      "previous": 0,
+      "errors": []
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "initial": 0,
+      "centeredError": 0.0390625,
+      "next": 1,
+      "previous": 0,
+      "errors": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "initial": 0,
+      "centeredError": 0,
+      "next": 1,
+      "previous": 0,
+      "errors": []
+    },
+    {
+      "route": "/",
+      "width": 375,
+      "initial": 0,
+      "centeredError": 0,
+      "next": 1,
+      "previous": 0,
+      "errors": []
+    },
+    {
+      "route": "/home",
+      "width": 1440,
+      "initial": 0,
+      "centeredError": 0.1953125,
+      "next": 1,
+      "previous": 0,
+      "errors": []
+    },
+    {
+      "route": "/home",
+      "width": 1280,
+      "initial": 0,
+      "centeredError": 0.1015625,
+      "next": 1,
+      "previous": 0,
+      "errors": []
+    },
+    {
+      "route": "/home",
+      "width": 1024,
+      "initial": 0,
+      "centeredError": 0.21875,
+      "next": 1,
+      "previous": 0,
+      "errors": []
+    },
+    {
+      "route": "/home",
+      "width": 768,
+      "initial": 0,
+      "centeredError": 0.0390625,
+      "next": 1,
+      "previous": 0,
+      "errors": []
+    },
+    {
+      "route": "/home",
+      "width": 390,
+      "initial": 0,
+      "centeredError": 0,
+      "next": 1,
+      "previous": 0,
+      "errors": []
+    },
+    {
+      "route": "/home",
+      "width": 375,
+      "initial": 0,
+      "centeredError": 0,
+      "next": 1,
+      "previous": 0,
+      "errors": []
+    }
+  ]
+}

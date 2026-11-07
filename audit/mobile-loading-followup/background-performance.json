@@ -1,0 +1,10 @@
+{
+  "name": "background-performance-revision",
+  "canvas": true,
+  "glError": 0,
+  "colorReadsDuringAnimation": 0,
+  "pausedDraws": 0,
+  "resumed": true,
+  "offscreenDraws": 0,
+  "errors": []
+}

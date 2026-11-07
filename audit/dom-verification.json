@@ -1,0 +1,9 @@
+{
+  "pages": 23,
+  "dropdowns": 276,
+  "mobileFolders": 138,
+  "accordionToggles": 29,
+  "lightboxes": 5,
+  "errors": [],
+  "scope": "DOM behavior with geometry and browser APIs stubbed; not browser or visual QA"
+}

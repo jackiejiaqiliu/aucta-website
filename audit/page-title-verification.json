@@ -1,0 +1,94 @@
+[
+  {
+    "route": "/",
+    "title": "Home — AUCTA Education"
+  },
+  {
+    "route": "student_testimonials",
+    "title": "Undergraduate Student Testimonials — AUCTA Education"
+  },
+  {
+    "route": "home",
+    "title": "Home — AUCTA Education"
+  },
+  {
+    "route": "contact",
+    "title": "Contact Us — AUCTA Education"
+  },
+  {
+    "route": "about-us",
+    "title": "Founder’s Letter — AUCTA Education"
+  },
+  {
+    "route": "graduate-1",
+    "title": "Graduate Services Overview — AUCTA Education"
+  },
+  {
+    "route": "about/our-journey",
+    "title": "Our Journey — AUCTA Education"
+  },
+  {
+    "route": "about/founders-letter",
+    "title": "Founder’s Letter — AUCTA Education"
+  },
+  {
+    "route": "admissions-result",
+    "title": "Undergraduate Admissions Result — AUCTA Education"
+  },
+  {
+    "route": "admissions-result/graduate",
+    "title": "Graduate Admissions Result — AUCTA Education"
+  },
+  {
+    "route": "admissions-result/undergraduate",
+    "title": "Undergraduate Admissions Result — AUCTA Education"
+  },
+  {
+    "route": "our-team",
+    "title": "Management Team — AUCTA Education"
+  },
+  {
+    "route": "our-team/us-consultants",
+    "title": "US Consultants — AUCTA Education"
+  },
+  {
+    "route": "our-team/management-team",
+    "title": "Management Team — AUCTA Education"
+  },
+  {
+    "route": "our-team/chinese-consultants",
+    "title": "Chinese Consultants — AUCTA Education"
+  },
+  {
+    "route": "undergraduate-services/faqs",
+    "title": "Undergraduate FAQs — AUCTA Education"
+  },
+  {
+    "route": "undergraduate-services/overview",
+    "title": "Undergraduate Services Overview — AUCTA Education"
+  },
+  {
+    "route": "student-testimonials/graduate",
+    "title": "Graduate Student Testimonials — AUCTA Education"
+  },
+  {
+    "route": "student-testimonials/undergraduate",
+    "title": "Undergraduate Student Testimonials — AUCTA Education"
+  },
+  {
+    "route": "why-choose-us",
+    "title": "Why Choose Us — AUCTA Education"
+  },
+  {
+    "route": "services",
+    "title": "Undergraduate Services Overview — AUCTA Education"
+  },
+  {
+    "route": "graduate-services/faqs",
+    "title": "Graduate FAQs — AUCTA Education"
+  },
+  {
+    "route": "graduate-services/overview",
+    "title": "Graduate Services Overview — AUCTA Education"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "name": "source-flex-restoration",
+  "samples": [
+    {
+      "elapsed": 235.30000019073486,
+      "bodyBoot": "booted",
+      "contentAnimation": "none",
+      "contentOpacity": "1",
+      "words": 6,
+      "wordTransform": "matrix(1, 0, 0, 1, 0, 47.1406)",
+      "wordDelay": "0s",
+      "mainAnimations": 0
+    },
+    {
+      "elapsed": 335.6000003814697,
+      "bodyBoot": "booted",
+      "contentAnimation": "none",
+      "contentOpacity": "1",
+      "words": 6,
+      "wordTransform": "matrix(1, 0, 0, 1, 0, 39.2481)",
+      "wordDelay": "0s",
+      "mainAnimations": 0
+    },
+    {
+      "elapsed": 587,
+      "bodyBoot": "booted",
+      "contentAnimation": "none",
+      "contentOpacity": "1",
+      "words": 6,
+      "wordTransform": "matrix(1, 0, 0, 1, 0, 8.16724)",
+      "wordDelay": "0s",
+      "mainAnimations": 0
+    },
+    {
+      "elapsed": 1188.3000001907349,
+      "bodyBoot": "booted",
+      "contentAnimation": "none",
+      "contentOpacity": "1",
+      "words": 0,
+      "wordTransform": null,
+      "wordDelay": null,
+      "mainAnimations": 0
+    },
+    {
+      "elapsed": 1689.3999996185303,
+      "bodyBoot": "booted",
+      "contentAnimation": "none",
+      "contentOpacity": "1",
+      "words": 0,
+      "wordTransform": null,
+      "wordDelay": null,
+      "mainAnimations": 0
+    }
+  ],
+  "pauseButtons": 0,
+  "canvas": true,
+  "imageClasses": "fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper preFlex flexIn",
+  "imageClip": "polygon(0px 0px, 100% 0px, 100% 100%, 0px 100%)",
+  "errors": []
+}

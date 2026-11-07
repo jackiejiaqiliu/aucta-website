@@ -1,0 +1,1381 @@
+{
+  "name": "loading-after",
+  "pages": [
+    {
+      "route": "/",
+      "visibleAt": 50.69999980926514,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 72
+        },
+        {
+          "name": "first-contentful-paint",
+          "startTime": 96
+        }
+      ],
+      "domInteractive": 13.100000381469727,
+      "domContentLoaded": 48,
+      "load": 48.10000038146973,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 11.40000057220459,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.imageFluid.css?qa=1794033423.072669",
+          "duration": 3.8000001907348633,
+          "transfer": 2953
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033423.072681",
+          "duration": 4.800000190734863,
+          "transfer": 480
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033423.0726779",
+          "duration": 5.300000190734863,
+          "transfer": 12404
+        },
+        {
+          "name": "reference-components.css?qa=1794033423.072685",
+          "duration": 10.800000190734863,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033423.072683",
+          "duration": 14.700000762939453,
+          "transfer": 1286384
+        },
+        {
+          "name": "fonts.css?qa=1794033423.0726888",
+          "duration": 6.800000190734863,
+          "transfer": 630
+        },
+        {
+          "name": "component-custom.css?qa=1794033423.0726862",
+          "duration": 7.100000381469727,
+          "transfer": 477
+        },
+        {
+          "name": "local.css?qa=1794033423.072691",
+          "duration": 8.100000381469727,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/about-us",
+      "visibleAt": 49.30000019073486,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 68
+        }
+      ],
+      "domInteractive": 16.300000190734863,
+      "domContentLoaded": 47.19999980926514,
+      "load": 47.19999980926514,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 13.600000381469727,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.imageFluid.css?qa=1794033423.5403252",
+          "duration": 6.299999237060547,
+          "transfer": 2953
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033423.5403361",
+          "duration": 7,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033423.54034",
+          "duration": 9.40000057220459,
+          "transfer": 480
+        },
+        {
+          "name": "component-custom.css?qa=1794033423.5403478",
+          "duration": 10.699999809265137,
+          "transfer": 477
+        },
+        {
+          "name": "fonts.css?qa=1794033423.540352",
+          "duration": 11.800000190734863,
+          "transfer": 630
+        },
+        {
+          "name": "reference-components.css?qa=1794033423.5403461",
+          "duration": 13.199999809265137,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033423.540343",
+          "duration": 17.100000381469727,
+          "transfer": 1286384
+        },
+        {
+          "name": "local.css?qa=1794033423.540354",
+          "duration": 12,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/about/founders-letter",
+      "visibleAt": 54.89999961853027,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 76
+        }
+      ],
+      "domInteractive": 23.09999942779541,
+      "domContentLoaded": 52.79999923706055,
+      "load": 53,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 13.5,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.imageFluid.css?qa=1794033424.001187",
+          "duration": 6,
+          "transfer": 2953
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033424.001206",
+          "duration": 6.100000381469727,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033424.001211",
+          "duration": 7.40000057220459,
+          "transfer": 480
+        },
+        {
+          "name": "component-custom.css?qa=1794033424.001225",
+          "duration": 9.600000381469727,
+          "transfer": 477
+        },
+        {
+          "name": "fonts.css?qa=1794033424.0012312",
+          "duration": 10.5,
+          "transfer": 630
+        },
+        {
+          "name": "reference-components.css?qa=1794033424.001222",
+          "duration": 11.90000057220459,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033424.001218",
+          "duration": 15.40000057220459,
+          "transfer": 1286384
+        },
+        {
+          "name": "local.css?qa=1794033424.001235",
+          "duration": 10.300000190734863,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/about/our-journey",
+      "visibleAt": 49.69999980926514,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 64
+        }
+      ],
+      "domInteractive": 19.100000381469727,
+      "domContentLoaded": 47.80000019073486,
+      "load": 47.89999961853027,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 10,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033424.4594402",
+          "duration": 4.100000381469727,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033424.459454",
+          "duration": 5,
+          "transfer": 480
+        },
+        {
+          "name": "reference-design.css?qa=1794033424.459458",
+          "duration": 13.199999809265137,
+          "transfer": 1286384
+        },
+        {
+          "name": "reference-components.css?qa=1794033424.459462",
+          "duration": 12,
+          "transfer": 489826
+        },
+        {
+          "name": "component-custom.css?qa=1794033424.459466",
+          "duration": 7.200000762939453,
+          "transfer": 477
+        },
+        {
+          "name": "fonts.css?qa=1794033424.459471",
+          "duration": 8.40000057220459,
+          "transfer": 630
+        },
+        {
+          "name": "local.css?qa=1794033424.4594738",
+          "duration": 8.700000762939453,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/admissions-result",
+      "visibleAt": 60.09999942779541,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 76
+        }
+      ],
+      "domInteractive": 26.09999942779541,
+      "domContentLoaded": 56.89999961853027,
+      "load": 56.89999961853027,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 11.600000381469727,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.accordion.css?qa=1794033424.9181728",
+          "duration": 6.799999237060547,
+          "transfer": 7790
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033424.9181921",
+          "duration": 6.199999809265137,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033424.918197",
+          "duration": 6.40000057220459,
+          "transfer": 480
+        },
+        {
+          "name": "reference-components.css?qa=1794033424.918205",
+          "duration": 8.100000381469727,
+          "transfer": 489826
+        },
+        {
+          "name": "component-custom.css?qa=1794033424.918208",
+          "duration": 7.699999809265137,
+          "transfer": 477
+        },
+        {
+          "name": "reference-design.css?qa=1794033424.918201",
+          "duration": 14.100000381469727,
+          "transfer": 1286384
+        },
+        {
+          "name": "local.css?qa=1794033424.918217",
+          "duration": 8.699999809265137,
+          "transfer": 3092
+        },
+        {
+          "name": "fonts.css?qa=1794033424.9182131",
+          "duration": 10,
+          "transfer": 630
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/admissions-result/graduate",
+      "visibleAt": 44.20000076293945,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 60
+        }
+      ],
+      "domInteractive": 17.5,
+      "domContentLoaded": 50.40000057220459,
+      "load": 53,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 10.600000381469727,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.accordion.css?qa=1794033425.3789592",
+          "duration": 5.100000381469727,
+          "transfer": 7790
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033425.3789718",
+          "duration": 5.399999618530273,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033425.378976",
+          "duration": 6.199999809265137,
+          "transfer": 480
+        },
+        {
+          "name": "component-custom.css?qa=1794033425.378986",
+          "duration": 8,
+          "transfer": 477
+        },
+        {
+          "name": "fonts.css?qa=1794033425.3789911",
+          "duration": 8.399999618530273,
+          "transfer": 630
+        },
+        {
+          "name": "reference-components.css?qa=1794033425.378983",
+          "duration": 9.5,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033425.3789802",
+          "duration": 15,
+          "transfer": 1286384
+        },
+        {
+          "name": "local.css?qa=1794033425.378994",
+          "duration": 8.5,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/admissions-result/undergraduate",
+      "visibleAt": 55.90000057220459,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 80
+        }
+      ],
+      "domInteractive": 27.100000381469727,
+      "domContentLoaded": 61.90000057220459,
+      "load": 63.40000057220459,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 13.100000381469727,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.accordion.css?qa=1794033425.849792",
+          "duration": 7,
+          "transfer": 7790
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033425.8498108",
+          "duration": 8.800000190734863,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033425.849816",
+          "duration": 8.299999237060547,
+          "transfer": 480
+        },
+        {
+          "name": "reference-components.css?qa=1794033425.849825",
+          "duration": 12.09999942779541,
+          "transfer": 489826
+        },
+        {
+          "name": "component-custom.css?qa=1794033425.8498309",
+          "duration": 9.399999618530273,
+          "transfer": 477
+        },
+        {
+          "name": "fonts.css?qa=1794033425.849836",
+          "duration": 10.59999942779541,
+          "transfer": 630
+        },
+        {
+          "name": "reference-design.css?qa=1794033425.84982",
+          "duration": 17.299999237060547,
+          "transfer": 1286384
+        },
+        {
+          "name": "local.css?qa=1794033425.8498418",
+          "duration": 10.90000057220459,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/contact",
+      "visibleAt": 48,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 64
+        }
+      ],
+      "domInteractive": 15.5,
+      "domContentLoaded": 45.89999961853027,
+      "load": 46,
+      "styles": [
+        {
+          "name": "component-website.components.form.css?qa=1794033426.3172522",
+          "duration": 6.199999809265137,
+          "transfer": 12708
+        },
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 13.399999618530273,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033426.317268",
+          "duration": 5.300000190734863,
+          "transfer": 480
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033426.3172638",
+          "duration": 5.5,
+          "transfer": 12404
+        },
+        {
+          "name": "component-custom.css?qa=1794033426.317276",
+          "duration": 8.300000190734863,
+          "transfer": 477
+        },
+        {
+          "name": "reference-components.css?qa=1794033426.317274",
+          "duration": 11.699999809265137,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033426.317271",
+          "duration": 16.40000057220459,
+          "transfer": 1286384
+        },
+        {
+          "name": "fonts.css?qa=1794033426.31728",
+          "duration": 10,
+          "transfer": 630
+        },
+        {
+          "name": "local.css?qa=1794033426.3172832",
+          "duration": 10.899999618530273,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/graduate-1",
+      "visibleAt": 51.10000038146973,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 68
+        }
+      ],
+      "domInteractive": 19.200000762939453,
+      "domContentLoaded": 57.30000019073486,
+      "load": 57.40000057220459,
+      "styles": [
+        {
+          "name": "component-website.components.html.css?qa=1794033426.772622",
+          "duration": 7.800000190734863,
+          "transfer": 480
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033426.772605",
+          "duration": 7.399999618530273,
+          "transfer": 12404
+        },
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 15.199999809265137,
+          "transfer": 112524
+        },
+        {
+          "name": "fonts.css?qa=1794033426.772637",
+          "duration": 11,
+          "transfer": 630
+        },
+        {
+          "name": "component-custom.css?qa=1794033426.7726321",
+          "duration": 11.300000190734863,
+          "transfer": 477
+        },
+        {
+          "name": "local.css?qa=1794033426.77264",
+          "duration": 13.699999809265137,
+          "transfer": 3092
+        },
+        {
+          "name": "reference-components.css?qa=1794033426.772629",
+          "duration": 15.899999618530273,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033426.772626",
+          "duration": 18.800000190734863,
+          "transfer": 1286384
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/graduate-services/faqs",
+      "visibleAt": 58.89999961853027,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 80
+        }
+      ],
+      "domInteractive": 24.09999942779541,
+      "domContentLoaded": 56.5,
+      "load": 56.59999942779541,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 14.300000190734863,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.accordion.css?qa=1794033427.242763",
+          "duration": 6.899999618530273,
+          "transfer": 7790
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033427.242774",
+          "duration": 7.800000190734863,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033427.242777",
+          "duration": 8.200000762939453,
+          "transfer": 480
+        },
+        {
+          "name": "reference-design.css?qa=1794033427.24278",
+          "duration": 16.100000381469727,
+          "transfer": 1286384
+        },
+        {
+          "name": "component-custom.css?qa=1794033427.242785",
+          "duration": 9.5,
+          "transfer": 477
+        },
+        {
+          "name": "fonts.css?qa=1794033427.242788",
+          "duration": 10.5,
+          "transfer": 630
+        },
+        {
+          "name": "local.css?qa=1794033427.24279",
+          "duration": 12.5,
+          "transfer": 3092
+        },
+        {
+          "name": "reference-components.css?qa=1794033427.2427819",
+          "duration": 13.300000190734863,
+          "transfer": 489826
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/graduate-services/overview",
+      "visibleAt": 57.89999961853027,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 80
+        }
+      ],
+      "domInteractive": 24.699999809265137,
+      "domContentLoaded": 63,
+      "load": 63.09999942779541,
+      "styles": [
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033427.709812",
+          "duration": 5.700000762939453,
+          "transfer": 12404
+        },
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 13.700000762939453,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033427.709833",
+          "duration": 7.100000381469727,
+          "transfer": 480
+        },
+        {
+          "name": "fonts.css?qa=1794033427.7098482",
+          "duration": 9.5,
+          "transfer": 630
+        },
+        {
+          "name": "local.css?qa=1794033427.7098508",
+          "duration": 11.59999942779541,
+          "transfer": 3092
+        },
+        {
+          "name": "component-custom.css?qa=1794033427.7098439",
+          "duration": 11.299999237060547,
+          "transfer": 477
+        },
+        {
+          "name": "reference-components.css?qa=1794033427.709841",
+          "duration": 11.799999237060547,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033427.709837",
+          "duration": 17.699999809265137,
+          "transfer": 1286384
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/our-team",
+      "visibleAt": 58.19999980926514,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 80
+        }
+      ],
+      "domInteractive": 25.699999809265137,
+      "domContentLoaded": 56.19999980926514,
+      "load": 56.19999980926514,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 13.40000057220459,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.imageFluid.css?qa=1794033428.181403",
+          "duration": 6.800000190734863,
+          "transfer": 2953
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033428.18142",
+          "duration": 6.600000381469727,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033428.1814249",
+          "duration": 7.200000762939453,
+          "transfer": 480
+        },
+        {
+          "name": "component-custom.css?qa=1794033428.181437",
+          "duration": 9.300000190734863,
+          "transfer": 477
+        },
+        {
+          "name": "reference-components.css?qa=1794033428.1814342",
+          "duration": 11.40000057220459,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033428.181429",
+          "duration": 15.100000381469727,
+          "transfer": 1286384
+        },
+        {
+          "name": "fonts.css?qa=1794033428.181442",
+          "duration": 9.699999809265137,
+          "transfer": 630
+        },
+        {
+          "name": "local.css?qa=1794033428.1814458",
+          "duration": 12,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/our-team/chinese-consultants",
+      "visibleAt": 55.30000019073486,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 76
+        }
+      ],
+      "domInteractive": 21.699999809265137,
+      "domContentLoaded": 53.19999980926514,
+      "load": 53.30000019073486,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 13.699999809265137,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033428.641781",
+          "duration": 5.5,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033428.641872",
+          "duration": 6.199999809265137,
+          "transfer": 480
+        },
+        {
+          "name": "reference-components.css?qa=1794033428.641886",
+          "duration": 12.800000190734863,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033428.641883",
+          "duration": 16.300000190734863,
+          "transfer": 1286384
+        },
+        {
+          "name": "component-custom.css?qa=1794033428.64189",
+          "duration": 9,
+          "transfer": 477
+        },
+        {
+          "name": "fonts.css?qa=1794033428.6418948",
+          "duration": 10.800000190734863,
+          "transfer": 630
+        },
+        {
+          "name": "local.css?qa=1794033428.641898",
+          "duration": 11.399999618530273,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/our-team/management-team",
+      "visibleAt": 39.70000076293945,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 60
+        }
+      ],
+      "domInteractive": 10.800000190734863,
+      "domContentLoaded": 37.70000076293945,
+      "load": 37.80000019073486,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 10.799999237060547,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.imageFluid.css?qa=1794033429.093191",
+          "duration": 5.5,
+          "transfer": 2953
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033429.0932019",
+          "duration": 5.40000057220459,
+          "transfer": 480
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033429.093199",
+          "duration": 5.800000190734863,
+          "transfer": 12404
+        },
+        {
+          "name": "reference-design.css?qa=1794033429.093204",
+          "duration": 13.600000381469727,
+          "transfer": 1286384
+        },
+        {
+          "name": "component-custom.css?qa=1794033429.093208",
+          "duration": 8.300000190734863,
+          "transfer": 477
+        },
+        {
+          "name": "fonts.css?qa=1794033429.093211",
+          "duration": 8.5,
+          "transfer": 630
+        },
+        {
+          "name": "reference-components.css?qa=1794033429.093206",
+          "duration": 9.800000190734863,
+          "transfer": 489826
+        },
+        {
+          "name": "local.css?qa=1794033429.093212",
+          "duration": 10.399999618530273,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/our-team/us-consultants",
+      "visibleAt": 58.10000038146973,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 80
+        }
+      ],
+      "domInteractive": 23.300000190734863,
+      "domContentLoaded": 56,
+      "load": 56,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 13.09999942779541,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.video.css?qa=1794033429.54674",
+          "duration": 5.600000381469727,
+          "transfer": 4644
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033429.546759",
+          "duration": 7.699999809265137,
+          "transfer": 480
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033429.5467541",
+          "duration": 7.899999618530273,
+          "transfer": 12404
+        },
+        {
+          "name": "reference-design.css?qa=1794033429.546763",
+          "duration": 16.899999618530273,
+          "transfer": 1286384
+        },
+        {
+          "name": "fonts.css?qa=1794033429.546776",
+          "duration": 8.5,
+          "transfer": 630
+        },
+        {
+          "name": "component-custom.css?qa=1794033429.546771",
+          "duration": 8.899999618530273,
+          "transfer": 477
+        },
+        {
+          "name": "local.css?qa=1794033429.546779",
+          "duration": 10.699999809265137,
+          "transfer": 3092
+        },
+        {
+          "name": "reference-components.css?qa=1794033429.546767",
+          "duration": 14.59999942779541,
+          "transfer": 489826
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/services",
+      "visibleAt": 57.40000057220459,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 80
+        }
+      ],
+      "domInteractive": 23.600000381469727,
+      "domContentLoaded": 55.40000057220459,
+      "load": 55.40000057220459,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 12.100000381469727,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033430.0138009",
+          "duration": 5.200000762939453,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033430.013817",
+          "duration": 6,
+          "transfer": 480
+        },
+        {
+          "name": "component-custom.css?qa=1794033430.01383",
+          "duration": 7.699999809265137,
+          "transfer": 477
+        },
+        {
+          "name": "fonts.css?qa=1794033430.013835",
+          "duration": 9.399999618530273,
+          "transfer": 630
+        },
+        {
+          "name": "reference-components.css?qa=1794033430.0138261",
+          "duration": 12.600000381469727,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033430.0138218",
+          "duration": 16.199999809265137,
+          "transfer": 1286384
+        },
+        {
+          "name": "local.css?qa=1794033430.013839",
+          "duration": 9,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/student-testimonials/graduate",
+      "visibleAt": 68.40000057220459,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 96
+        }
+      ],
+      "domInteractive": 26.800000190734863,
+      "domContentLoaded": 80.90000057220459,
+      "load": 82.5,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 12.100000381469727,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.imageFluid.css?qa=1794033430.471034",
+          "duration": 6.200000762939453,
+          "transfer": 2953
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033430.471061",
+          "duration": 5.5,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033430.471065",
+          "duration": 6.40000057220459,
+          "transfer": 480
+        },
+        {
+          "name": "component-custom.css?qa=1794033430.471074",
+          "duration": 8.600000381469727,
+          "transfer": 477
+        },
+        {
+          "name": "reference-components.css?qa=1794033430.471071",
+          "duration": 11.5,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033430.471068",
+          "duration": 14.40000057220459,
+          "transfer": 1286384
+        },
+        {
+          "name": "fonts.css?qa=1794033430.471078",
+          "duration": 9.199999809265137,
+          "transfer": 630
+        },
+        {
+          "name": "local.css?qa=1794033430.471081",
+          "duration": 10.899999618530273,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/student-testimonials/undergraduate",
+      "visibleAt": 67.90000057220459,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 84
+        }
+      ],
+      "domInteractive": 27.5,
+      "domContentLoaded": 79.40000057220459,
+      "load": 81.20000076293945,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 12,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.imageFluid.css?qa=1794033430.963433",
+          "duration": 4.800000190734863,
+          "transfer": 2953
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033430.963447",
+          "duration": 5.800000190734863,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033430.9634519",
+          "duration": 6,
+          "transfer": 480
+        },
+        {
+          "name": "component-custom.css?qa=1794033430.9634612",
+          "duration": 7.300000190734863,
+          "transfer": 477
+        },
+        {
+          "name": "fonts.css?qa=1794033430.963466",
+          "duration": 8.800000190734863,
+          "transfer": 630
+        },
+        {
+          "name": "reference-components.css?qa=1794033430.963458",
+          "duration": 9.899999618530273,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033430.963455",
+          "duration": 14.199999809265137,
+          "transfer": 1286384
+        },
+        {
+          "name": "local.css?qa=1794033430.963469",
+          "duration": 9.40000057220459,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/student_testimonials",
+      "visibleAt": 82.19999980926514,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 108
+        }
+      ],
+      "domInteractive": 31.09999942779541,
+      "domContentLoaded": 78.19999980926514,
+      "load": 78.39999961853027,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 11.399999618530273,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.imageFluid.css?qa=1794033431.460851",
+          "duration": 4.300000190734863,
+          "transfer": 2953
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033431.4608629",
+          "duration": 6.100000381469727,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033431.4608672",
+          "duration": 6.300000190734863,
+          "transfer": 480
+        },
+        {
+          "name": "component-custom.css?qa=1794033431.460876",
+          "duration": 9.399999618530273,
+          "transfer": 477
+        },
+        {
+          "name": "reference-components.css?qa=1794033431.460873",
+          "duration": 10.699999809265137,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033431.4608698",
+          "duration": 14,
+          "transfer": 1286384
+        },
+        {
+          "name": "fonts.css?qa=1794033431.460879",
+          "duration": 8.199999809265137,
+          "transfer": 630
+        },
+        {
+          "name": "local.css?qa=1794033431.460881",
+          "duration": 9.5,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/undergraduate-services/faqs",
+      "visibleAt": 55.5,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 76
+        }
+      ],
+      "domInteractive": 23.699999809265137,
+      "domContentLoaded": 53.39999961853027,
+      "load": 53.5,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 13.300000190734863,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.accordion.css?qa=1794033431.953002",
+          "duration": 5.5,
+          "transfer": 7790
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033431.9530208",
+          "duration": 5.899999618530273,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033431.953026",
+          "duration": 7,
+          "transfer": 480
+        },
+        {
+          "name": "component-custom.css?qa=1794033431.953038",
+          "duration": 10.299999237060547,
+          "transfer": 477
+        },
+        {
+          "name": "fonts.css?qa=1794033431.953043",
+          "duration": 10.5,
+          "transfer": 630
+        },
+        {
+          "name": "local.css?qa=1794033431.953047",
+          "duration": 12.09999942779541,
+          "transfer": 3092
+        },
+        {
+          "name": "reference-components.css?qa=1794033431.953034",
+          "duration": 12.399999618530273,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033431.9530299",
+          "duration": 15.299999237060547,
+          "transfer": 1286384
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/undergraduate-services/overview",
+      "visibleAt": 44.39999961853027,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 64
+        }
+      ],
+      "domInteractive": 17.199999809265137,
+      "domContentLoaded": 50,
+      "load": 51.10000038146973,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 11.40000057220459,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033432.410986",
+          "duration": 3.8000001907348633,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033432.411",
+          "duration": 3.8999996185302734,
+          "transfer": 480
+        },
+        {
+          "name": "reference-components.css?qa=1794033432.411008",
+          "duration": 8.899999618530273,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033432.4110038",
+          "duration": 13.699999809265137,
+          "transfer": 1286384
+        },
+        {
+          "name": "component-custom.css?qa=1794033432.411011",
+          "duration": 6,
+          "transfer": 477
+        },
+        {
+          "name": "local.css?qa=1794033432.411019",
+          "duration": 7.5,
+          "transfer": 3092
+        },
+        {
+          "name": "fonts.css?qa=1794033432.411016",
+          "duration": 7.899999618530273,
+          "transfer": 630
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/home",
+      "visibleAt": 56.60000038146973,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 80
+        },
+        {
+          "name": "first-contentful-paint",
+          "startTime": 120
+        }
+      ],
+      "domInteractive": 26.90000057220459,
+      "domContentLoaded": 66.10000038146973,
+      "load": 68.10000038146973,
+      "styles": [
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 12.800000190734863,
+          "transfer": 112524
+        },
+        {
+          "name": "component-website.components.imageFluid.css?qa=1794033432.875272",
+          "duration": 6.199999809265137,
+          "transfer": 2953
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033432.875296",
+          "duration": 7,
+          "transfer": 12404
+        },
+        {
+          "name": "component-website.components.html.css?qa=1794033432.8753018",
+          "duration": 6.699999809265137,
+          "transfer": 480
+        },
+        {
+          "name": "component-custom.css?qa=1794033432.875314",
+          "duration": 8.300000190734863,
+          "transfer": 477
+        },
+        {
+          "name": "reference-components.css?qa=1794033432.8753111",
+          "duration": 13.600000381469727,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033432.875307",
+          "duration": 16.300000190734863,
+          "transfer": 1286384
+        },
+        {
+          "name": "fonts.css?qa=1794033432.87532",
+          "duration": 12,
+          "transfer": 630
+        },
+        {
+          "name": "local.css?qa=1794033432.8753228",
+          "duration": 12.200000762939453,
+          "transfer": 3092
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "/why-choose-us",
+      "visibleAt": 40.30000019073486,
+      "paints": [
+        {
+          "name": "first-paint",
+          "startTime": 60
+        }
+      ],
+      "domInteractive": 13.800000190734863,
+      "domContentLoaded": 38.5,
+      "load": 38.59999942779541,
+      "styles": [
+        {
+          "name": "component-website.components.html.css?qa=1794033433.346686",
+          "duration": 4.40000057220459,
+          "transfer": 480
+        },
+        {
+          "name": "component-website.components.socialLinks.css?qa=1794033433.346673",
+          "duration": 5.300000190734863,
+          "transfer": 12404
+        },
+        {
+          "name": "component-custom.css?qa=1794033433.346695",
+          "duration": 6.699999809265137,
+          "transfer": 477
+        },
+        {
+          "name": "k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q8EsJaRE-NWIDdgffTT0zRp8A-f44a8d48a9.ttf",
+          "duration": 8.90000057220459,
+          "transfer": 112524
+        },
+        {
+          "name": "reference-components.css?qa=1794033433.346693",
+          "duration": 9.600000381469727,
+          "transfer": 489826
+        },
+        {
+          "name": "reference-design.css?qa=1794033433.34669",
+          "duration": 12,
+          "transfer": 1286384
+        },
+        {
+          "name": "local.css?qa=1794033433.3467011",
+          "duration": 7.800000190734863,
+          "transfer": 3092
+        },
+        {
+          "name": "fonts.css?qa=1794033433.346699",
+          "duration": 8.399999618530273,
+          "transfer": 630
+        }
+      ],
+      "errors": []
+    }
+  ]
+}
