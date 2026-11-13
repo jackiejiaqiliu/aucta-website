@@ -1,0 +1,151 @@
+{
+  "routes": [
+    {
+      "route": "about/founders-letter/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 5
+    },
+    {
+      "route": "about/our-journey/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 4
+    },
+    {
+      "route": "about-us/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 5
+    },
+    {
+      "route": "admissions-result/graduate/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 40
+    },
+    {
+      "route": "admissions-result/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 28
+    },
+    {
+      "route": "admissions-result/undergraduate/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 28
+    },
+    {
+      "route": "contact/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 4
+    },
+    {
+      "route": "graduate-1/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 12
+    },
+    {
+      "route": "graduate-services/faqs/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 4
+    },
+    {
+      "route": "graduate-services/overview/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 12
+    },
+    {
+      "route": "home/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 25
+    },
+    {
+      "route": "index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 25
+    },
+    {
+      "route": "our-team/chinese-consultants/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 10
+    },
+    {
+      "route": "our-team/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 8
+    },
+    {
+      "route": "our-team/management-team/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 8
+    },
+    {
+      "route": "our-team/us-consultants/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 19
+    },
+    {
+      "route": "services/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 13
+    },
+    {
+      "route": "student-testimonials/graduate/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 30
+    },
+    {
+      "route": "student-testimonials/undergraduate/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 28
+    },
+    {
+      "route": "student_testimonials/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 28
+    },
+    {
+      "route": "undergraduate-services/faqs/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 4
+    },
+    {
+      "route": "undergraduate-services/overview/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 13
+    },
+    {
+      "route": "why-choose-us/index.html",
+      "layout_and_text_preserved": true,
+      "original_lightbox_sources_retained": true,
+      "image_count": 4
+    }
+  ],
+  "missing_resources": [],
+  "display_assets": {
+    "checked": 737,
+    "converted": 725,
+    "before_bytes": 149457229,
+    "after_bytes": 81028680,
+    "reduction_percent": 45.8
+  },
+  "verification_limit": "Static resource/layout checks and simulated navigation-cache tests. No rendered-browser timings available."
+}

@@ -70,3 +70,35 @@
     });
   }
 })();
+
+/* Match homepage section rhythm to About Us at the current font and viewport. */
+(() => {
+  if (document.body.dataset.auctaPage !== 'home') return;
+  const about = document.querySelector('[data-section-id="6577919e3123e24bc42e920e"]');
+  if (!about) return;
+  const wrapper = about.querySelector(':scope > .content-wrapper');
+  const title = about.querySelector('h2');
+  const paragraph = about.querySelector('.fe-block:last-child .sqs-html-content p');
+  if (!wrapper || !title || !paragraph) return;
+  const scope = window.auctaPage;
+  const Observer = scope ? scope.Observer(window.ResizeObserver) : window.ResizeObserver;
+  const frame = callback => scope ? scope.frame(callback) : requestAnimationFrame(callback);
+  // Offset coordinates ignore the site's temporary entrance-animation transforms.
+  const layoutTop = element => {
+    let top = 0;
+    for (let node = element; node; node = node.offsetParent) top += node.offsetTop;
+    return top;
+  };
+  const update = () => {
+    const style = getComputedStyle(wrapper);
+    const gap = Math.max(0, layoutTop(paragraph) - layoutTop(title) - title.offsetHeight);
+    document.body.style.setProperty('--home-about-padding-top', style.paddingTop);
+    document.body.style.setProperty('--home-about-padding-bottom', style.paddingBottom);
+    document.body.style.setProperty('--home-about-title-gap', `${gap}px`);
+  };
+  if (Observer) new Observer(() => frame(update)).observe(about);
+  if (scope) scope.on(window, 'resize', () => frame(update));
+  else window.addEventListener('resize', () => frame(update));
+  document.fonts.ready.then(() => { if (!scope?.disposed) frame(update); });
+  update();
+})();

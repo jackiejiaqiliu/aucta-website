@@ -5,6 +5,32 @@
   const base = document.createElement('base'); base.href = location.href; document.head.prepend(base);
   document.querySelectorAll("head link[href]").forEach(link=>link.href=link.href);
   const sources = new Map();
+  // A small intent-driven cache avoids fetching every page in the background.
+  const pages = new Map();
+  const pageKey = url => { const key=new URL(url); key.hash=''; return key.href; };
+  const rememberPage = (key,value) => {
+    pages.delete(key); pages.set(key,value);
+    while(pages.size>3)pages.delete(pages.keys().next().value);
+  };
+  const canPrefetch = () => !navigator.connection?.saveData && !/^(slow-)?2g$/.test(navigator.connection?.effectiveType || '');
+  const prefetch = (url,priority='low') => {
+    const key=pageKey(url);
+    if(!canPrefetch() || pages.has(key) || key===pageKey(location.href))return;
+    const request=fetch(key,{priority}).then(response=>{
+      if(!response.ok)throw Error('Prefetch unavailable');
+      return response.text();
+    });
+    rememberPage(key,request);
+    request.then(text=>{if(pages.get(key)===request)rememberPage(key,text)})
+      .catch(()=>{if(pages.get(key)===request)pages.delete(key)});
+  };
+  const readPage = async (url,signal) => {
+    const key=pageKey(url),cached=pages.get(key);
+    if(cached) { try { return await cached; } catch {} }
+    const response=await fetch(url,{signal});
+    if(!response.ok)throw Error('Page request failed');
+    const text=await response.text();rememberPage(key,text);return text;
+  };
   const newScope = () => {
     const controller = new AbortController(), observers = [], frames = new Set(), timers = new Set();
     return {
@@ -27,9 +53,9 @@
     pending?.abort();pending=new AbortController();
     document.documentElement.setAttribute('aria-busy','true');
     try {
-      const response=await fetch(url,{signal:pending.signal});
-      if(!response.ok)throw Error('Page request failed');
-      const next=new DOMParser().parseFromString(await response.text(),'text/html');
+      const html=await readPage(url,pending.signal);
+      if(current!==sequence)return;
+      const next=new DOMParser().parseFromString(html,'text/html');
       if(!next.querySelector('#page')||!next.querySelector('#header'))throw Error('Unexpected page');
       const scripts=[...next.querySelectorAll('script[src]')].map(s=>new URL(s.getAttribute('src'),url).href).filter(src=>/\/js\//.test(src)&&!new URL(src).pathname.endsWith('/loading.js'));
       const code=await Promise.all(scripts.map(scriptText));
@@ -68,5 +94,22 @@
     if(url.pathname===location.pathname&&url.hash)return;
     event.preventDefault();navigate(url);
   });
+  const intentURL = target => {
+    const link=target.closest?.('a[href]');
+    if(!link || link.hasAttribute('download') || link.hasAttribute('data-folder-id') || (link.target && link.target!=='_self') || link.dataset.action==='back')return;
+    const url=new URL(link.href);
+    if(url.origin!==location.origin || !(/\/index\.html$/.test(url.pathname)||url.pathname.endsWith('/')))return;
+    return url;
+  };
+  let intentTimer;
+  document.addEventListener('pointerover',event=>{
+    if(event.pointerType==='touch')return;
+    clearTimeout(intentTimer);
+    const url=intentURL(event.target);
+    if(url)intentTimer=setTimeout(()=>prefetch(url),100);
+  });
+  document.addEventListener('pointerout',()=>clearTimeout(intentTimer));
+  document.addEventListener('focusin',event=>{const url=intentURL(event.target);if(url)prefetch(url)});
+  document.addEventListener('pointerdown',event=>{const url=intentURL(event.target);if(url)prefetch(url,'high')},{passive:true});
   window.addEventListener('popstate',()=>navigate(new URL(location.href),false));
 })();

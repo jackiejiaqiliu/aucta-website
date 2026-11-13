@@ -1,0 +1,96 @@
+/* Student testimonials only: circular portraits and one consistent entry gap. */
+#page .testimonial-entry { min-height: 0; height: auto; }
+#page .testimonial-entry > .content-wrapper {
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
+}
+#page .testimonial-entry-grid {
+  grid-template-rows: auto auto;
+  row-gap: 16px;
+}
+#page .testimonial-entry-grid > .testimonial-portrait {
+  grid-area: 1 / 2 / 3 / 9;
+  align-self: start;
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+  margin-inline: auto;
+}
+#page .testimonial-entry-grid > .testimonial-name { grid-area: 1 / 10 / 2 / 26; }
+#page .testimonial-entry-grid > .testimonial-quote { grid-area: 2 / 10 / 3 / 26; }
+#page .testimonial-entry :is(.testimonial-name,.testimonial-quote) .sqs-block {
+  height: auto;
+  min-height: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#page .testimonial-name h4 { margin-top: 0; margin-bottom: 0; }
+#page .testimonial-quote .sqs-html-content > :first-child { margin-top: 0; }
+#page .testimonial-quote .sqs-html-content > :last-child { margin-bottom: 0; }
+#page .testimonial-portrait :is(.sqs-block,.sqs-block-content,.fluid-image-component-root,.fluid-image-animation-wrapper) {
+  width: 100%;
+  height: auto;
+  min-height: 0;
+  padding: 0;
+}
+#page .testimonial-portrait .fluid-image-container {
+  position: relative;
+  width: 100%;
+  height: auto !important;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: 50%;
+  clip-path: none !important;
+  -webkit-clip-path: none !important;
+}
+#page .testimonial-portrait :is(.js-content-mode-element-wrapper,.js-content-mode-element) {
+  position: absolute !important;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  clip-path: none !important;
+  -webkit-clip-path: none !important;
+}
+#page .testimonial-portrait img {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+}
+@media (max-width:767px) {
+  #page .testimonial-entry-grid { grid-template-rows: auto auto auto; row-gap: 24px; }
+  #page .testimonial-entry-grid > .testimonial-portrait { grid-area: 1 / 3 / 2 / 9; max-width: 260px; }
+  #page .testimonial-entry-grid > .testimonial-name { grid-area: 2 / 2 / 3 / 10; }
+  #page .testimonial-entry-grid > .testimonial-quote { grid-area: 3 / 2 / 4 / 10; }
+}
+
+/* Alternate portraits and center them against each student's complete text. */
+@media (min-width:768px) {
+  #page .testimonial-entry-grid > .testimonial-portrait { align-self: center; }
+  #page .testimonial-entry[data-portrait-side="right"] .testimonial-portrait { grid-area: 1 / 19 / 3 / 26; }
+  #page .testimonial-entry[data-portrait-side="right"] .testimonial-name { grid-area: 1 / 2 / 2 / 18; }
+  #page .testimonial-entry[data-portrait-side="right"] .testimonial-quote { grid-area: 2 / 2 / 3 / 18; }
+}
+
+/* Give the first student a little more room below the page heading. */
+#page [data-page-title-layout="standard"] + .testimonial-entry > .content-wrapper {
+  padding-top: 64px !important;
+}
+
+@media (max-width:767px) {
+  #page [data-page-title-layout="standard"] + .testimonial-entry > .content-wrapper {
+    padding-top: 40px !important;
+  }
+}
+
+@media (max-width:767px) {
+  #page [data-page-title-layout="standard"] + .testimonial-entry > .content-wrapper {
+    padding-top: 32px !important;
+  }
+}
+
+@media (max-width:767px) {
+  #page [data-page-title-layout="standard"] + .testimonial-entry > .content-wrapper {
+    padding-top: var(--phone-page-title-gap,32px) !important;
+  }
+}

@@ -1,0 +1,101 @@
+/* Static Our Journey timeline, using the site's existing palette and typography. */
+body[data-aucta-page="about/our-journey"] .fe-6577854b0104310aa9c7bfb0 {
+  grid-template-rows: auto auto;
+  row-gap: clamp(32px, 4vw, 64px);
+  overflow: visible;
+}
+body[data-aucta-page="about/our-journey"] .fe-6577854b0104310aa9c7bfb0 > .fe-block:first-child {
+  grid-area: 1 / 2 / 2 / 10;
+}
+body[data-aucta-page="about/our-journey"] .fe-6577854b0104310aa9c7bfb0 > .fe-block:last-child {
+  grid-area: 2 / 2 / 3 / 10;
+  min-width: 0;
+}
+.journey-graphic .journey-timeline {
+  position: relative;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.journey-timeline::before {
+  content: '';
+  position: absolute;
+  top: 14px;
+  bottom: 0;
+  left: 50%;
+  width: 2px;
+  transform: translateX(-50%);
+  background: hsla(var(--darkAccent-hsl), 1);
+}
+.journey-graphic .journey-milestone {
+  position: relative;
+  box-sizing: border-box;
+  width: 50%;
+  list-style: none;
+  margin: 0;
+  padding: 0 clamp(28px, 4vw, 64px) 48px 0;
+  color: hsla(var(--black-hsl), 1);
+}
+.journey-graphic .journey-milestone:nth-child(even) {
+  margin-left: 50%;
+  padding-left: clamp(28px, 4vw, 64px);
+  padding-right: 0;
+}
+.journey-graphic .journey-milestone:last-child { padding-bottom: 0; }
+.journey-milestone::before {
+  content: '';
+  position: absolute;
+  z-index: 1;
+  right: -10px;
+  top: 10px;
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+  border: 3px solid hsla(var(--white-hsl), 1);
+  border-radius: 50%;
+  background: hsla(var(--accent-hsl), 1);
+}
+.journey-milestone:nth-child(even)::before { left: -10px; right: auto; }
+.journey-graphic .journey-date {
+  margin: 0 0 16px;
+  color: hsla(var(--darkAccent-hsl), 1);
+  font-family: var(--heading-font-font-family);
+}
+.journey-description p:first-child { margin-top: 0; }
+.journey-description p:last-child { margin-bottom: 0; }
+@media (min-width:768px) {
+  body[data-aucta-page="about/our-journey"] .fe-6577854b0104310aa9c7bfb0 > .fe-block:first-child { grid-area: 1 / 8 / 2 / 20; }
+  body[data-aucta-page="about/our-journey"] .fe-6577854b0104310aa9c7bfb0 > .fe-block:last-child { grid-area: 2 / 2 / 3 / 26; }
+}
+@media (max-width:767px) {
+  .journey-graphic .journey-milestone { padding-right: 20px; padding-bottom: 32px; }
+  .journey-graphic .journey-milestone:nth-child(even) { padding-left: 20px; padding-right: 0; }
+  .journey-graphic .journey-date { font-size: 20px; overflow-wrap: anywhere; }
+  .journey-description p { overflow-wrap: break-word; }
+}
+
+/* Keep the timeline as a narrower centered graphic within the page. */
+.journey-graphic .journey-timeline {
+  width: 100%;
+  max-width: 960px;
+  margin-inline: auto;
+}
+
+/* Pin the center rail to the site's brand blue, including dark-theme overrides. */
+body[data-aucta-page="about/our-journey"] .journey-timeline::before {
+  background-color: hsla(var(--darkAccent-hsl), 1);
+}
+
+/* Phone: a straightforward chronological reading layout without the graphic. */
+@media (max-width:767px) {
+  .journey-graphic .journey-timeline::before,
+  .journey-graphic .journey-milestone::before { display: none; }
+  .journey-graphic .journey-milestone,
+  .journey-graphic .journey-milestone:nth-child(even) {
+    width: 100%;
+    margin-left: 0;
+    padding: 0 0 32px;
+  }
+  .journey-graphic .journey-milestone:last-child { padding-bottom: 0; }
+  .journey-graphic .journey-date { margin-bottom: 16px; overflow-wrap: normal; }
+}
